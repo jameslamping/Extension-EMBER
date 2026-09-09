@@ -1,0 +1,9 @@
+statistic,value
+ws_p50,11.16
+ws_p90,16.92
+ws_p99,27.51624
+ws_max,41.976
+frac_days_ws_gt20,0.0503623188405797
+frac_days_ws_gt30,0.00471014492753623
+rmin_p10,28.62
+tmax_p90,22.7973333333334

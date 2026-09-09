@@ -1,0 +1,16 @@
+statistic,value_scf,value_ember,ratio,label
+years,80,160,2,pass6_pooled
+active_cells,9346,9346,1,pass6_pooled
+cells_per_year_mean,78.2125,40.95625,0.52365350807096,pass6_pooled
+cells_per_year_median,0,0,,pass6_pooled
+cells_per_year_p90,59.8000000000002,10,0.167224080267558,pass6_pooled
+cells_per_year_max,1328,3305,2.48870481927711,pass6_pooled
+fraction_years_with_fire,0.3875,0.3875,1,pass6_pooled
+annual_fraction_burned,0.00836855339182538,0.0043822223411085,0.52365350807096,pass6_pooled
+rotation_years,119.494965638485,228.194719975584,1.90965969784831,pass6_pooled
+fires_per_year,0.4875,0.5375,1.1025641025641,pass6_pooled
+fire_size_median,12,1,0.0833333333333333,pass6_pooled
+fire_size_p90,621.400000000001,143.5,0.2309301577084,pass6_pooled
+fire_size_max,1283,3305,2.57599376461419,pass6_pooled
+fraction_fires_gt10,0.512820512820513,0.209302325581395,0.408139534883721,pass6_pooled
+fraction_fires_gt100,0.17948717948718,0.127906976744186,0.712624584717606,pass6_pooled

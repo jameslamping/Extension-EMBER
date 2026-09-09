@@ -1,0 +1,178 @@
+LandisData   "Ecoregions"
+
+>> Active	MapCode	Name	Description
+>> ------	-------	----	-----------
+   no	     0	none    	none    	<< none
+   no	   115	eco115  	eco115  	<< Water, Water
+   no	   121	eco121  	eco121  	<< Water, Western Hemlock
+   no	   122	eco122  	eco122  	<< Water, Grand Fir - Rock
+   no	   123	eco123  	eco123  	<< Water, Mountain Hemlock
+   yes	     1	eco1    	eco1    	<< Glaciofluvial Valleys, Western Hemlock
+   yes	     2	eco2    	eco2    	<< Glacialscoured Lowlands, Western Hemlock
+   yes	     3	eco3    	eco3    	<< Glacial Plateaus, Western Hemlock
+   yes	     4	eco4    	eco4    	<< Glacial Plateaus, Pacific Silver Fir
+   yes	     5	eco5    	eco5    	<< Glacial Low Mountains, Pacific Silver Fir
+   yes	     6	eco6    	eco6    	<< Glacial Low Mountains, Western Hemlock
+   yes	     7	eco7    	eco7    	<< Glaciofluvial Valleys, Pacific Silver Fir
+   yes	     8	eco8    	eco8    	<< Glaciofluvial Valleys, Mountain Hemlock
+   yes	     9	eco9    	eco9    	<< Glaciofluvial Valleys, Grand Fir
+   yes	    11	eco11   	eco11   	<< Glaciofluvial Valleys, Grand Fir - Western Hemlock
+   yes	    12	eco12   	eco12   	<< Glacial Valleys, Western Hemlock
+   yes	    13	eco13   	eco13   	<< Glacial Valley Bottoms, Western Hemlock
+   yes	    14	eco14   	eco14   	<< Glacial Valleys, Pacific Silver Fir
+   yes	    15	eco15   	eco15   	<< Glacial Valleys, Pacific Silver Fir - Western Hemlock
+   yes	    16	eco16   	eco16   	<< Glacial Valleys, Mountain Hemlock
+   yes	    17	eco17   	eco17   	<< Glacial Valleys, Mountain Hemlock - Parkland
+   yes	    18	eco18   	eco18   	<< Glacial Valleys, Western Hemlock - Grand Fir
+   yes	    19	eco19   	eco19   	<< Glacial Valleys, Western Hemlock - Pacific Silver Fir
+   yes	    20	eco20   	eco20   	<< Glacial Valleys, Parkland
+   yes	    21	eco21   	eco21   	<< Glacial Valleys, Mountain Hemlock - Subalpine Fir
+   yes	    22	eco22   	eco22   	<< Glacial Valleys, Parkland - Rock
+   yes	    23	eco23   	eco23   	<< Glacial Valleys, Pacific Silver Fir - Mountain Hemlock
+   yes	    24	eco24   	eco24   	<< Glacial Valleys, Mountain Hemlock - Western Hemlock
+   yes	    25	eco25   	eco25   	<< Glacialscoured Uplands, Western Hemlock
+   yes	    26	eco26   	eco26   	<< Glacial Valleys, Pacific Silver Fir - Grand Fir
+   yes	    27	eco27   	eco27   	<< Glacial Valleys, Mountain Hemlock - Pacific Silver Fir
+   yes	    28	eco28   	eco28   	<< Collapsed Glacial Mountains, Grand Fir - Western Hemlock
+   yes	    29	eco29   	eco29   	<< Collapsed Glacial Mountains, Mountain Hemlock
+   yes	    30	eco30   	eco30   	<< Collapsed Glacial Mountains, Western Hemlock - Grand Fir - mix
+   yes	    31	eco31   	eco31   	<< Glacial Valleys, Douglas-Fir
+   yes	    32	eco32   	eco32   	<< Glacial Valleys, Grand Fir - Douglas-Fir
+   yes	    33	eco33   	eco33   	<< Glacial Valleys, Grand Fir
+   yes	    34	eco34   	eco34   	<< Glacial Valleys, Grand Fir - Western Hemlock
+   yes	    35	eco35   	eco35   	<< Glacial Valleys, Grand Fir - Mountain Hemlock
+   yes	    36	eco36   	eco36   	<< Glacial Valleys, Ice and Snowfields
+   yes	    37	eco37   	eco37   	<< Glacial Valleys, Mountain Hemlock - Grand Fir
+   yes	    38	eco38   	eco38   	<< Glacial Valleys, Rock - Ice and Snowfields
+   yes	    39	eco39   	eco39   	<< Glacial Mountains, Pacific Silver Fir
+   yes	    40	eco40   	eco40   	<< Glacial Mountains, Subalpine Fir
+   yes	    41	eco41   	eco41   	<< Glacial Mountains, Mountain Hemlock - Subalpine Fir
+   yes	    42	eco42   	eco42   	<< Glacial Mountains, Mountain Hemlock
+   yes	    43	eco43   	eco43   	<< Glacial Mountains, Pacific Silver Fir - Mountain Hemlock
+   yes	    44	eco44   	eco44   	<< Glacial Mountains, Western Hemlock
+   yes	    45	eco45   	eco45   	<< Glacial Mountains, Parkland
+   yes	    46	eco46   	eco46   	<< Collapsed Glacial Stratal Mountains, Grand Fir
+   yes	    47	eco47   	eco47   	<< Collapsed Glacial Stratal Mountains, Pacific Silver Fir
+   yes	    48	eco48   	eco48   	<< Collapsed Glacial Stratal Mountains, Parkland
+   yes	    49	eco49   	eco49   	<< Collapsed Glacial Stratal Mountains, Western Hemlock
+   yes	    50	eco50   	eco50   	<< Collapsed Glacial Stratal Mountains, Pacific Silver Fir - Subalpine Fir
+   yes	    51	eco51   	eco51   	<< Glacial Mountains, Subalpine Fir - Mountain Hemlock
+   yes	    52	eco52   	eco52   	<< Glacial Mountains, Pacific Silver Fir - Parkland
+   yes	    53	eco53   	eco53   	<< Glacial Mountains, Mountain Hemlock - Pacific Silver Fir
+   yes	    54	eco54   	eco54   	<< Collapsed Glacial Stratal Mountains, Grand Fir - Douglas-Fir
+   yes	    55	eco55   	eco55   	<< Collapsed Glacial Stratal Mountains, Douglas-Fir - Western Hemlock
+   yes	    56	eco56   	eco56   	<< Collapsed Glacial Stratal Mountains, Mountain Hemlock - Pacific Silver Fir
+   yes	    57	eco57   	eco57   	<< Collapsed Glacial Stratal Mountains, Subalpine Fir
+   yes	    58	eco58   	eco58   	<< Collapsed Glacial Stratal Mountains, Mountain Hemlock
+   yes	    59	eco59   	eco59   	<< Collapsed Glacial Stratal Mountains, Grand Fir - Pacific Silver Fir
+   yes	    60	eco60   	eco60   	<< Glacial Mountains, Rock
+   yes	    61	eco61   	eco61   	<< Glacial Mountains, Rock - Ice and Snowfields
+   yes	    62	eco62   	eco62   	<< Collapsed Glacial Stratal Mountains, Mountain Hemlock - Subalpine Fir
+   yes	    63	eco63   	eco63   	<< Collapsed Glacial Stratal Mountains, Douglas-Fir
+   yes	    64	eco64   	eco64   	<< Collapsed Glacial Stratal Mountains, Grand Fir - Western Hemlock
+   yes	    65	eco65   	eco65   	<< Glacial Stratal Mountains, Parkland
+   yes	    66	eco66   	eco66   	<< Glacial Stratal Mountains, Pacific Silver Fir
+   yes	    67	eco67   	eco67   	<< Collapsed Glacial Stratal Mountains, Parkland - Mountain Hemlock
+   yes	    68	eco68   	eco68   	<< Collapsed Glacial Stratal Mountains, Pacific Silver Fir - Mountain Hemlock
+   yes	    69	eco69   	eco69   	<< Glacial Stratal Mountains, Mountain Hemlock - Pacific Silver Fir
+   yes	    70	eco70   	eco70   	<< Glacial Stratal Mountains, Western Hemlock - Pacific Silver Fir
+   yes	    71	eco71   	eco71   	<< Glacial Stratal Mountains, Pacific Silver Fir - Western Hemlock
+   yes	    72	eco72   	eco72   	<< Glacial Stratal Mountains, Subalpine Fir
+   yes	    73	eco73   	eco73   	<< Glacial Stratal Mountains, Mountain Hemlock
+   yes	    74	eco74   	eco74   	<< Glacial Stratal Mountains, Grand Fir
+   yes	    75	eco75   	eco75   	<< Glacial Stratal Mountains, Western Hemlock
+   yes	    76	eco76   	eco76   	<< Cirqued Glacial Mountains, Mountain Hemlock
+   yes	    77	eco77   	eco77   	<< Cirqued Glacial Mountains, Parkland
+   yes	    78	eco78   	eco78   	<< Glacial Mountains, Pacific Silver Fir - Western Hemlock
+   yes	    79	eco79   	eco79   	<< Cirqued Glacial Mountains, Western Hemlock - Pacific Silver Fir
+   yes	    80	eco80   	eco80   	<< Cirqued Glacial Mountains, Pacific Silver Fir - Subalpine Fir
+   yes	    81	eco81   	eco81   	<< Cirqued Glacial Mountains, Grand Fir
+   yes	    82	eco82   	eco82   	<< Cirqued Glacial Mountains, Pacific Silver Fir - Mountain Hemlock
+   yes	    83	eco83   	eco83   	<< Cirqued Glacial Mountains, Pacific Silver Fir
+   yes	    84	eco84   	eco84   	<< Collapsed Glacial Mountains, Mountain Hemlock - Grand Fir
+   yes	    85	eco85   	eco85   	<< Glaciated Plateaus, Western Hemlock - Pacific Silver Fir
+   yes	    86	eco86   	eco86   	<< Glaciated Plateaus, Western Hemlock
+   yes	    87	eco87   	eco87   	<< Glaciated Plateaus, Mountain Hemlock
+   yes	    88	eco88   	eco88   	<< Glaciated Plateaus, Parkland
+   yes	    89	eco89   	eco89   	<< Glaciated Plateaus, Grand Fir
+   yes	    90	eco90   	eco90   	<< Cirqued Glacial Mountains, Western Hemlock
+   yes	    91	eco91   	eco91   	<< Glacial Mountains, Douglas-Fir
+   yes	    92	eco92   	eco92   	<< Glacial Mountains, Grand Fir
+   yes	    93	eco93   	eco93   	<< Glacial Mountains, Grand Fir - Douglas-Fir
+   yes	    94	eco94   	eco94   	<< Glacial Mountains, Douglas-Fir - Grand Fir
+   yes	    95	eco95   	eco95   	<< Glacial Mountains, Western Hemlock - Grand Fir - mix
+   yes	    96	eco96   	eco96   	<< Collapsed Glacial Mountains, Douglas-Fir
+   yes	    97	eco97   	eco97   	<< Collapsed Glacial Mountains, Western Hemlock
+   yes	    98	eco98   	eco98   	<< Collapsed Glacial Mountains, Pacific Silver Fir
+   yes	    99	eco99   	eco99   	<< Collapsed Glacial Mountains, Grand Fir
+   yes	   100	eco100  	eco100  	<< Glacial High Mountains, Parkland
+   yes	   101	eco101  	eco101  	<< Collapsed Glacial Mountains, Subalpine Fir
+   yes	   102	eco102  	eco102  	<< Collapsed Glacial Mountains, Parkland
+   yes	   103	eco103  	eco103  	<< Collapsed Glacial Mountains, Western Hemlock - Pacific Silver Fir
+   yes	   104	eco104  	eco104  	<< Collapsed Glacial Mountains, Pacific Silver Fir - Western Hemlock
+   yes	   105	eco105  	eco105  	<< Glacial High Mountains, Pacific Silver Fir
+   yes	   106	eco106  	eco106  	<< Glacial High Mountains, Mountain Hemlock
+   yes	   107	eco107  	eco107  	<< Glacial High Mountains, Parkland - Mountain Hemlock
+   yes	   108	eco108  	eco108  	<< Glacial High Mountains, Pacific Silver Fir - Western Hemlock
+   yes	   109	eco109  	eco109  	<< Glacial High Mountains, Mountain Hemlock - Pacific Silver Fir
+   yes	   110	eco110  	eco110  	<< Glacial High Mountains, Mountain Hemlock - Parkland
+   yes	   111	eco111  	eco111  	<< Glacial High Mountains, Western Hemlock - Grand Fir
+   yes	   112	eco112  	eco112  	<< Glacial High Mountains, Western Hemlock - Pacific Silver Fir
+   yes	   113	eco113  	eco113  	<< Glacial High Mountains, Western Hemlock - Mountain Hemlock
+   yes	   114	eco114  	eco114  	<< Glacial High Mountains, Pacific Silver Fir - Grand Fir
+   yes	   116	eco116  	eco116  	<< Collapsed Stratal Mountains, Western Hemlock
+   yes	   117	eco117  	eco117  	<< Collapsed Stratal Mountains, Western Hemlock - Grand Fir
+   yes	   118	eco118  	eco118  	<< Glacial High Mountains, Grand Fir
+   yes	   119	eco119  	eco119  	<< Glacial High Mountains, Rock
+   yes	   120	eco120  	eco120  	<< Glacial High Mountains, Grand Fir - Western Hemlock
+   yes	   124	eco124  	eco124  	<< Glaciovolcanic Scours, Ice and Snowfields
+   yes	   125	eco125  	eco125  	<< Glaciovolcanic Scours, Parkland
+   yes	   126	eco126  	eco126  	<< Glaciovolcanic Scours, Mountain Hemlock
+   yes	   127	eco127  	eco127  	<< Glaciovolcanic Scours, Ice and Snowfields - Rock
+   yes	   128	eco128  	eco128  	<< Glaciovolcanic Scours, Rock
+   yes	   129	eco129  	eco129  	<< Glaciovolcanic Scours, Mountain Hemlock - Parkland
+   yes	   130	eco130  	eco130  	<< Glacial High Mountains, Pacific Silver Fir - Mountain Hemlock
+   yes	   131	eco131  	eco131  	<< Glaciovolcanic Scours, Mountain Hemlock - Rock
+   yes	   132	eco132  	eco132  	<< Glaciovolcanic Scours, Rock - Mountain Hemlock
+   yes	   133	eco133  	eco133  	<< Glaciovolcanic Scours, Parkland - Mountain Hemlock
+   yes	   134	eco134  	eco134  	<< Glaciovolcanic Scours, Rock - Parkland
+   yes	   135	eco135  	eco135  	<< Glaciolacustrine, Western Hemlock
+   yes	   136	eco136  	eco136  	<< Glacial High Mountains, Western Hemlock
+   yes	   137	eco137  	eco137  	<< Cirqued Glacial High Mountains, Pacific Silver Fir
+   yes	   138	eco138  	eco138  	<< Glacial High Mountains, Pacific Silver Fir - Subalpine Fir
+   yes	   139	eco139  	eco139  	<< Glacial High Mountains, Subalpine Fir
+   yes	   140	eco140  	eco140  	<< Glacial High Mountains, Subalpine Fir - Pacific Silver Fir
+   yes	   141	eco141  	eco141  	<< Cirqued Glacial High Mountains, Western Hemlock
+   yes	   142	eco142  	eco142  	<< Cirqued Glacial High Mountains, Mountain Hemlock
+   yes	   143	eco143  	eco143  	<< Cirqued Glacial High Mountains, Parkland - Mountain Hemlock
+   yes	   144	eco144  	eco144  	<< Glacial High Mountains, Subalpine Fir - Mountain Hemlock
+   yes	   145	eco145  	eco145  	<< Cirqued Glacial High Mountains, Pacific Silver Fir - Mountain Hemlock
+   yes	   146	eco146  	eco146  	<< Cirqued Glacial High Mountains, Mountain Hemlock - Pacific Silver Fir
+   yes	   147	eco147  	eco147  	<< Cirqued Glacial High Mountains, Parkland
+   yes	   148	eco148  	eco148  	<< Cirqued Glacial High Mountains, Rock
+   yes	   149	eco149  	eco149  	<< Cirqued Glacial High Mountains, Western Hemlock - Pacific Silver Fir
+   yes	   150	eco150  	eco150  	<< Cirqued Glacial High Mountains, Pacific Silver Fir - Western Hemlock
+   yes	   151	eco151  	eco151  	<< Glacial Stratal High Mountains, Western Hemlock
+   yes	   152	eco152  	eco152  	<< Collapsed Stratal Mountains, Grand Fir - Pacific Silver Fir
+   yes	   153	eco153  	eco153  	<< Collapsed Stratal Mountains, Douglas-Fir
+   yes	   154	eco154  	eco154  	<< Collapsed Stratal Mountains, Mountain Hemlock
+   yes	   155	eco155  	eco155  	<< Glaciated Volcanoes, Parkland
+   yes	   156	eco156  	eco156  	<< Glaciated Volcanoes, Pacific Silver Fir
+   yes	   157	eco157  	eco157  	<< Glaciated Volcanoes, Mountain Hemlock
+   yes	   158	eco158  	eco158  	<< Collapsed Stratal Mountains, Parkland
+   yes	   159	eco159  	eco159  	<< Collapsed Stratal Mountains, Grand Fir
+   yes	   160	eco160  	eco160  	<< Collapsed Stratal Mountains, Grand Fir - Western Hemlock
+   yes	   161	eco161  	eco161  	<< Collapsed Stratal Mountains, Subalpine Fir
+   yes	   162	eco162  	eco162  	<< Glacial Volcanoes, Parkland - Mountain Hemlock
+   yes	   163	eco163  	eco163  	<< Glacial Volcanoes, Rock - Ice and Snowfields
+   yes	   164	eco164  	eco164  	<< Glacial Volcanoes, Parkland
+   yes	   165	eco165  	eco165  	<< Glacial Volcanoes, Mountain Hemlock
+   yes	   166	eco166  	eco166  	<< Glacial Volcanoes, Mountain Hemlock - Pacific Silver Fir
+   yes	   167	eco167  	eco167  	<< Glacial Volcanoes, Pacific Silver Fir
+   yes	   168	eco168  	eco168  	<< Glacial Volcanoes, Rock
+   yes	   169	eco169  	eco169  	<< Glacial Volcanoes, Ice and Snowfields - Rock
+   yes	   170	eco170  	eco170  	<< Glacial Volcanoes, Rock - Parkland
+   yes	   171	eco171  	eco171  	<< Glacial Volcanoes, Ice and Snowfields
+   yes	   172	eco172  	eco172  	<< Glacial Volcanoes, Rock - Mountain Hemlock
+   yes	   173	eco173  	eco173  	<< Glacial Volcanoes, Western Hemlock
+   yes	   174	eco174  	eco174  	<< Glacial Volcanoes, Alpine - Rock

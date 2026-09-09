@@ -1,0 +1,34 @@
+>> Pass 4 (2026-09-09): pass 3 parameters plus the three structural changes made after the
+>> pass-2 diagnosis (see README): IgnitionAlwaysBurns (every attempt is a recorded fire),
+>> CrownInitiation Cruz2004, CoarseFuelFlamingFraction 0.3. Same seeds as pass 3.
+UseIgnitionSustain          no
+IgnitionRequiresBurnPeriod  no
+IgnitionAlwaysBurns         yes
+WindAdjustmentSheltered     0.20
+WindGustFactor              1.0
+BurnPeriodMinHours          1
+BurnPeriodMaxHours          16
+BurnPeriodFWILow            12
+BurnPeriodFWIHigh           40
+RainoutPrecipitation        0.2
+ExtinctionIntensity         25
+FoliarMoistureDroughtEffect 0.35
+CrownInitiation             Cruz2004
+CoarseFuelFlamingFraction   0.3
+fuelbed: ShortNeedle PackingRatio 0.025
+fuelbed: LongNeedle PackingRatio 0.030
+fuelbed: Broadleaf PackingRatio 0.018
+UseSuppression              yes
+InitialAttackB0             1.5
+InitialAttackB1             -0.5
+InitialAttackB2             -0.0005
+InitialAttackB3             0.0
+InitialAttackB4             -0.1
+ContainmentB0               0.0
+ContainmentB1               -0.4
+ContainmentB2               -0.1
+ContainmentB3               0.0
+ContainmentB4               -0.1
+ContainmentB5               -0.05
+MaxSuppressedFires          10
+FuelMapFrequency            10

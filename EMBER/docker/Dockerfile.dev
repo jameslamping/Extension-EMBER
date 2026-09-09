@@ -1,0 +1,22 @@
+# Development image: the user's working UCLv2 LANDIS-II image plus a locally built EMBER DLL.
+# The console only loads assemblies listed in Landis.Console.deps.json, so we add an entry
+# there instead of rebuilding the console (the runtime image has no .NET SDK).
+ARG BASE_IMAGE=climatelibrary:v6
+FROM ${BASE_IMAGE}
+
+ARG LANDIS_DIR=/opt/landis-ii
+ARG CORE=/opt/landis-ii/Core-Model-v8-LINUX
+ENV LANDIS_CONSOLE=$CORE/build/Release/Landis.Console.dll
+ENV LANDIS_EXT_TOOL=$CORE/build/Release/Landis.Extensions.dll
+
+COPY bin/Landis.Extension.EMBER-v1.dll $CORE/build/extensions/
+COPY bin/Landis.Extension.EMBER-v1.dll $CORE/build/Release/
+COPY registration.txt /tmp/EMBER.txt
+COPY patch_deps.py /tmp/patch_deps.py
+
+RUN python3 /tmp/patch_deps.py $CORE/build/Release/Landis.Console.deps.json Landis.Extension.EMBER-v1 1.0.0.0 \
+ && cd $CORE/build/Release \
+ && dotnet $LANDIS_EXT_TOOL add /tmp/EMBER.txt \
+ && dotnet $LANDIS_EXT_TOOL list | grep -i ember
+
+WORKDIR /scenario

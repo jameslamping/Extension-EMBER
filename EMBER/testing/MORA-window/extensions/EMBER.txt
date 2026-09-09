@@ -1,0 +1,118 @@
+LandisData  "EMBER"
+
+>> Mount Rainier (MORA) windowed test configuration. Every parameter is listed in parser
+>> order so calibration overrides (calibration/run_variant.sh) can replace lines in place.
+>> Ignition coefficients are the Social Climate Fire values for this landscape, converted to
+>> per-hectare intercepts (SCF B0 - ln(398065 ha)) so a partial landscape gets its share.
+
+Timestep                    1
+
+SpeciesTable                extensions/ember_species.csv
+FuelbedTable                extensions/ember_fuelbeds.csv
+SlopeMap                    /mora/input_maps/MORA_slope_07072025.tif      << degrees
+AspectMap                   /mora/input_maps/MORA_aspect_07072025.tif     << degrees, downslope direction
+LightningIgnitionMap        /mora/input_maps/Lightning_Ignition_Map_7K_25K.tif
+AccidentalIgnitionMap       /mora/input_maps/Accidental_Ignition_Map_7K_25K.tif
+Latitude                    46.85
+Longitude                   -121.75
+
+>> fuel pools
+SyncFineFuelsToSuccession   yes
+InitialCoarseWood100h       0.6
+InitialCoarseWood1000h      4.0
+InitialDuff                 3.0
+CoarseWoodDecay100h         0.10
+CoarseWoodDecay1000h        0.03
+DuffDecay                   0.05
+DuffInputFraction           0.15
+LitterInputFraction         0.30
+LitterDecay                 0.40
+BackgroundWoodMortality     0.01
+
+>> moisture
+ShadeModifier               0.15
+TopographyModifier          0.15
+DroughtCodeLow              150
+DroughtCodeHigh             600
+ThousandHourMoisture        12 35
+DuffMoisture                20 150
+LiveHerbMoisture            30 150
+LiveWoodyMoisture           60 130
+FoliarMoistureDroughtEffect  0.35
+BroadleafFoliarMoisture     120
+
+>> ignitions
+IgnitionFireDanger          FWI
+IgnitionAreaScaling         PerHectare
+LightningIgnitionsB0         -15.0
+LightningIgnitionsB1        0.050481
+AccidentalIgnitionsB0       -15.453520
+AccidentalIgnitionsB1       0.064927
+IgnitionDistribution        ZeroInflatedPoisson
+LightningIgnitionsBinomialB0    1.96777
+LightningIgnitionsBinomialB1   -0.139142
+AccidentalIgnitionsBinomialB0  -0.068511
+AccidentalIgnitionsBinomialB1  -0.114866
+UseIgnitionSustain           no
+IgnitionSustainB0           -12.5
+IgnitionSustainB1           0.15
+IgnitionRequiresBurnPeriod   no
+IgnitionAlwaysBurns          yes
+FirstIgnitionDay             120
+LastIgnitionDay              305
+
+>> burn period
+BurnPeriodMinHours           1
+BurnPeriodMaxHours           16
+BurnPeriodFWILow             12
+BurnPeriodFWIHigh            40
+RainoutPrecipitation         0.2
+NaturalEndDays              2
+MaxFireDays                 60
+
+>> behavior
+WindAdjustmentOpen          0.40
+WindAdjustmentSheltered      0.20
+WindGustFactor               1.0
+ExtinctionIntensity          25
+ROSNoiseSigma               0.3
+MinimumFineFuelLoad         0.05
+AllowCrownFire              yes
+CrownInitiation              Cruz2004
+CoarseFuelFlamingFraction    0.3
+LadderMaxHeight             4.0
+CBDThreshold                0.011
+MaxFuelbedLoad              4.0
+
+>> suppression (off: the SCF reference run has an all-zero suppression table)
+UseSuppression               yes
+InitialAttackB0              3.5
+InitialAttackB1              -0.5
+InitialAttackB2              -0.0001
+InitialAttackB3              0.0
+InitialAttackB4              -0.1
+ContainmentB0                2.5
+ContainmentB1                -0.3
+ContainmentB2                -0.1
+ContainmentB3                0.0
+ContainmentB4                -0.1
+ContainmentB5                -0.05
+MaxSuppressedFires           10
+
+>> effects
+CohortMortalityMode         Fractional
+SeverityClasses             10
+MinimumSurvivingFraction    0.05
+Consumption100h             1.2 0.020
+Consumption1000h            1.1 0.020
+ConsumptionDuff             0.9 0.0075
+ConsumptionLiveWoody        0.5
+ConsumptionLiveHerb         0.9
+EmissionFactorPM25          12 26
+EmissionFactorCO2           1660 1420
+
+>> outputs
+MapOutputFolder             ember
+FuelMapFrequency             10
+WriteFuelMoistureMaps       no
+WriteCalibrationDiagnostics no

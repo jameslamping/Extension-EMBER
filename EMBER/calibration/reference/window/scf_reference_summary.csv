@@ -1,0 +1,16 @@
+statistic,value
+years,80
+active_cells,9346
+cells_per_year_mean,78.2125
+cells_per_year_median,0
+cells_per_year_p90,59.8000000000002
+cells_per_year_max,1328
+fraction_years_with_fire,0.3875
+annual_fraction_burned,0.00836855339182538
+rotation_years,119.494965638485
+fires_per_year,0.4875
+fire_size_median,12
+fire_size_p90,621.400000000001
+fire_size_max,1283
+fraction_fires_gt10,0.512820512820513
+fraction_fires_gt100,0.17948717948718

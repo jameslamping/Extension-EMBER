@@ -1,0 +1,32 @@
+>> Pass 2b (2026-09-08): pass 2a plus initial attack / containment, to compare with the observed
+>> (suppressed) record. Zone map absent -> every cell is zone 1; the zone terms are zero so the
+>> coefficients act as intercepts. Initial attack: logit P = 3.0 - 0.5 ln(area ha) - 0.0005 Imax
+>> - 0.1 concurrent fires  (P ~ 0.93 for a 1-cell, 300 kW/m fire; ~0.5 at 4 000 kW/m).
+UseIgnitionSustain          no
+IgnitionRequiresBurnPeriod  no
+WindAdjustmentSheltered     0.20
+WindGustFactor              1.0
+BurnPeriodMinHours          1
+BurnPeriodMaxHours          16
+BurnPeriodFWILow            12
+BurnPeriodFWIHigh           40
+RainoutPrecipitation        0.2
+ExtinctionIntensity         25
+FoliarMoistureDroughtEffect 0.35
+fuelbed: ShortNeedle PackingRatio 0.025
+fuelbed: LongNeedle PackingRatio 0.030
+fuelbed: Broadleaf PackingRatio 0.018
+UseSuppression              yes
+InitialAttackB0             3.0
+InitialAttackB1             -0.5
+InitialAttackB2             -0.0005
+InitialAttackB3             0.0
+InitialAttackB4             -0.1
+ContainmentB0               0.5
+ContainmentB1               -0.4
+ContainmentB2               -0.1
+ContainmentB3               0.0
+ContainmentB4               -0.1
+ContainmentB5               -0.05
+MaxSuppressedFires          10
+FuelMapFrequency            10

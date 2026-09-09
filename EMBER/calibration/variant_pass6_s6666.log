@@ -1,0 +1,104 @@
+== pass6_s6666: 40 years, seed 6666, overrides:
+>> Pass 6 (2026-09-09): pass 5 with initial attack and containment strengthened once more
+>> (IA intercept 3.5: ~92 % at 10 000 kW/m, ~62 % at 30 000; containment intercept 2.5:
+>> ~73 %/day for a 10-ha fire at 5 m/min, ~14 %/day for a 500-ha fire at 17 m/min) and the
+>> lightning intercept trimmed to -15.0 (pass 5 gave 1.45x the record). Same four seeds.
+UseIgnitionSustain          no
+IgnitionRequiresBurnPeriod  no
+IgnitionAlwaysBurns         yes
+WindAdjustmentSheltered     0.20
+WindGustFactor              1.0
+BurnPeriodMinHours          1
+BurnPeriodMaxHours          16
+BurnPeriodFWILow            12
+BurnPeriodFWIHigh           40
+RainoutPrecipitation        0.2
+ExtinctionIntensity         25
+FoliarMoistureDroughtEffect 0.35
+CrownInitiation             Cruz2004
+CoarseFuelFlamingFraction   0.3
+fuelbed: ShortNeedle PackingRatio 0.025
+fuelbed: LongNeedle PackingRatio 0.030
+fuelbed: Broadleaf PackingRatio 0.018
+UseSuppression              yes
+InitialAttackB0             3.5
+InitialAttackB1             -0.5
+InitialAttackB2             -0.0001
+InitialAttackB3             0.0
+InitialAttackB4             -0.1
+ContainmentB0               2.5
+ContainmentB1               -0.3
+ContainmentB2               -0.1
+ContainmentB3               0.0
+ContainmentB4               -0.1
+ContainmentB5               -0.05
+MaxSuppressedFires          10
+FuelMapFrequency            10
+FirstIgnitionDay            120
+LastIgnitionDay             305
+LightningIgnitionsB0        -15.0
+   EMBER year 38: 0 fires, 0 cells burned (0.0 ha), largest 0.0 ha, mean FWI 9.6.
+   EMBER year 39: 1 fires, 1 cells burned (0.8 ha), largest 0.8 ha, mean FWI 6.8.
+   EMBER year 40: 1 fires, 1 cells burned (0.8 ha), largest 0.8 ha, mean FWI 4.6.
+Warning message:
+package 'ggplot2' was built under R version 4.4.3 
+
+== pass6_s6666 vs SCF ==
+                   statistic       scf     ember    ratio
+                      <char>     <num>     <num>    <num>
+ 1:                    years 8.000e+01 4.000e+01  0.50000
+ 2:             active_cells 9.346e+03 9.346e+03  1.00000
+ 3:      cells_per_year_mean 7.821e+01 1.700e+00  0.02170
+ 4:    cells_per_year_median 0.000e+00 0.000e+00      NaN
+ 5:       cells_per_year_p90 5.980e+01 2.000e+00  0.03340
+ 6:       cells_per_year_max 1.328e+03 4.500e+01  0.03390
+ 7: fraction_years_with_fire 3.875e-01 3.500e-01  0.90300
+ 8:   annual_fraction_burned 8.369e-03 1.819e-04  0.02170
+ 9:           rotation_years 1.195e+02 5.498e+03 46.00000
+10:           fires_per_year 4.875e-01 4.250e-01  0.87200
+11:         fire_size_median 1.200e+01 1.000e+00  0.08330
+12:            fire_size_p90 6.214e+02 4.400e+00  0.00708
+13:            fire_size_max 1.283e+03 4.500e+01  0.03510
+14:      fraction_fires_gt10 5.128e-01 5.882e-02  0.11500
+15:     fraction_fires_gt100 1.795e-01 0.000e+00  0.00000
+
+== pass6_s6666 vs observed record (FPA-FOD / MTBS; counts scaled by area share 0.019 ) ==
+                           statistic  observed     ember  ratio
+                              <char>     <num>     <num>  <num>
+ 1:                   fires_per_year 6.655e-01 4.250e-01 0.6390
+ 2:         lightning_fires_per_year 2.459e-01 2.250e-01 0.9150
+ 3:                 fire_size_median 1.000e+00 1.000e+00 1.0000
+ 4:                    fire_size_p90 1.000e+00 4.400e+00 4.4000
+ 5:              fraction_fires_gt10 2.956e-02 5.882e-02 1.9900
+ 6:             fraction_fires_gt100 1.675e-02 0.000e+00 0.0000
+ 7:       annual_fraction_burned_fpa 2.554e-03 1.819e-04 0.0712
+ 8:      annual_fraction_burned_mtbs 3.640e-03 1.819e-04 0.0500
+ 9:              ignition_doy_median 2.210e+02 1.930e+02 0.8730
+10:                 ignition_doy_p10 1.760e+02 1.430e+02 0.8120
+11:                 ignition_doy_p90 2.650e+02 2.774e+02 1.0500
+12: fraction_area_high_severity_mtbs 4.188e-01 3.949e-01 0.9430
+
+== behavior diagnostics ==
+                       statistic     value
+                          <char>     <num>
+ 1:   ignition_attempts_per_year    0.4250
+ 2:            fires_per_attempt    1.0000
+ 3:           days_active_median    1.0000
+ 4:              days_active_p90    1.0000
+ 5:              days_active_max    2.0000
+ 6:        mean_ros_median_m_min    0.0000
+ 7:            max_ros_p90_m_min    4.6560
+ 8:   mean_intensity_median_kW_m    0.0000
+ 9:       max_intensity_p90_kW_m 4384.0000
+10: fraction_cells_passive_crown    0.7059
+11:  fraction_cells_active_crown    0.0000
+12:        canopy_mortality_mean    0.5238
+13:    cells_per_fire_day_median    1.0000
+14:       cells_per_fire_day_p90    4.4000
+15:            burn_hours_median    0.0000
+16:          ignition_fwi_median    7.4000
+17:                  end_weather    0.0000
+18:             end_fuel_limited    0.0000
+19:               end_season_end    0.0000
+
+wrote /Users/jlamping/Documents/Reenvisioned_LANDIS_Fire/EMBER/calibration/runs/pass6_s6666 

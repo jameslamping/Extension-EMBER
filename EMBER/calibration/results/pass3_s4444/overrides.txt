@@ -1,0 +1,32 @@
+>> Pass 3 (2026-09-09): pass 2a behavior with moderate initial attack. logit P(IA) = 1.5
+>> - 0.5 ln(area ha) - 0.0005 Imax - 0.1 concurrent  -> ~0.80 for a one-cell 300 kW/m fire,
+>> ~0.35 at 4 000 kW/m. Containment on later days ~0.5 for a small, slow fire.
+>> Run as 4 seeds x 40 years and scored pooled (run_replicates.sh).
+UseIgnitionSustain          no
+IgnitionRequiresBurnPeriod  no
+WindAdjustmentSheltered     0.20
+WindGustFactor              1.0
+BurnPeriodMinHours          1
+BurnPeriodMaxHours          16
+BurnPeriodFWILow            12
+BurnPeriodFWIHigh           40
+RainoutPrecipitation        0.2
+ExtinctionIntensity         25
+FoliarMoistureDroughtEffect 0.35
+fuelbed: ShortNeedle PackingRatio 0.025
+fuelbed: LongNeedle PackingRatio 0.030
+fuelbed: Broadleaf PackingRatio 0.018
+UseSuppression              yes
+InitialAttackB0             1.5
+InitialAttackB1             -0.5
+InitialAttackB2             -0.0005
+InitialAttackB3             0.0
+InitialAttackB4             -0.1
+ContainmentB0               0.0
+ContainmentB1               -0.4
+ContainmentB2               -0.1
+ContainmentB3               0.0
+ContainmentB4               -0.1
+ContainmentB5               -0.05
+MaxSuppressedFires          10
+FuelMapFrequency            10

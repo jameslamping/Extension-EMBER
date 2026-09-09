@@ -1,0 +1,30 @@
+LandisData	Species
+
+>>                                 Sexual    Seed Disperal Dist  Vegetative   Sprout Age  Post-Fire
+>>         Name         Longevity  Maturity  Effective  Maximum  Reprod Prob  Min   Max   Regen
+>> -------------------- ---------  --------  ---------  -------  -----------  ----  ----  ----------
+PinusPonderosa		600	20	30	800	0	0	0	none
+PseudotsugaMenziesii	1000	25	100	2000	0	0	0	none
+AbiesGrandis		300	25	30	200	0	0	0	none
+ThujaPlicata		1000	25	10	200	0.9	5	800	resprout
+TsugaHeterophylla	450	25	30	1150	0	0	0	none
+LarixOccidentalis	900	20	30	200	0	0	0	none
+PinusMonticola		400	20	30	800	0	0	0	none
+AbiesLasiocarpa		250	20	30	200	0	0	0	none
+PiceaEngelmannii	600	30	90	200	0	0	0	none
+BetulaPapyrifera	140	15	30	200	0.9	5	70	resprout
+TsugaMertensiana	800	20	70	450	0	0	0	none
+PinusContorta		300	10	5	200	0	0	0	serotiny
+AlnusRubra		100	10	50	200	0.9	2	30	resprout
+AbiesAmabilis		500	30	30	200	0	0	0	none
+TaxusBrevifolia		1000	30	90	200	0	0	0	none
+AcerMacrophyllum	200	10	50	200	0.9	2	60	resprout
+PopulusBalsamifera	200	8	30	200	0.9	5	30	resprout
+AbiesProcera		400	27	30	200	0	0	0	none
+PiceaSitchensis		800	30	30	800	0	0	0	none
+PinusAlbicaulis		700	20	5	200	0	0	0	none
+LarixLyallii		700	20	30	200	0	0	0	none
+QuercusGarryana		500	20	50	200	0.9	5	60	resprout
+ArbutusMenziesii	500	8	30	200	0.9	2	50	resprout
+PopulusTremuloides	150	15	10	200	1	1	60	resprout
+ChamaecyparisNootkatensis 3500	20	5	150	0	0	0	none

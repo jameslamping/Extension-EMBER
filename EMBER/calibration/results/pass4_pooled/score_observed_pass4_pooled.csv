@@ -1,0 +1,13 @@
+statistic,observed,ember,ratio,label
+fires_per_year,0.665466381853321,0.5375,0.807704212650179,pass4_pooled
+lightning_fires_per_year,0.245861963738911,0.0625,0.254207682430987,pass4_pooled
+fire_size_median,1,1,1,pass4_pooled
+fire_size_p90,1,246.5,246.5,pass4_pooled
+fraction_fires_gt10,0.0295566502463054,0.162790697674419,5.5077519379845,pass4_pooled
+fraction_fires_gt100,0.0167487684729064,0.151162790697674,9.02530779753762,pass4_pooled
+annual_fraction_burned_fpa,0.00255391986643236,0.0165184303445324,6.46787339009484,pass4_pooled
+annual_fraction_burned_mtbs,0.003639630975609,0.0165184303445324,4.53849042807657,pass4_pooled
+ignition_doy_median,221,224,1.01357466063348,pass4_pooled
+ignition_doy_p10,176,56.5,0.321022727272727,pass4_pooled
+ignition_doy_p90,265,287,1.08301886792453,pass4_pooled
+fraction_area_high_severity_mtbs,0.418807906637985,0.359487065301,0.858357876255995,pass4_pooled

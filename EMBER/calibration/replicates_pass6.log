@@ -1,0 +1,67 @@
+pooled /Users/jlamping/Documents/Reenvisioned_LANDIS_Fire/EMBER/calibration/runs/pass6_s3333: 40 years, 22 fires
+pooled /Users/jlamping/Documents/Reenvisioned_LANDIS_Fire/EMBER/calibration/runs/pass6_s4444: 40 years, 21 fires
+pooled /Users/jlamping/Documents/Reenvisioned_LANDIS_Fire/EMBER/calibration/runs/pass6_s5555: 40 years, 26 fires
+pooled /Users/jlamping/Documents/Reenvisioned_LANDIS_Fire/EMBER/calibration/runs/pass6_s6666: 40 years, 17 fires
+wrote /Users/jlamping/Documents/Reenvisioned_LANDIS_Fire/EMBER/calibration/runs/pass6_pooled with 160 years
+Warning message:
+package 'ggplot2' was built under R version 4.4.3 
+
+== pass6_pooled vs SCF ==
+                   statistic       scf     ember  ratio
+                      <char>     <num>     <num>  <num>
+ 1:                    years 8.000e+01 1.600e+02 2.0000
+ 2:             active_cells 9.346e+03 9.346e+03 1.0000
+ 3:      cells_per_year_mean 7.821e+01 4.096e+01 0.5240
+ 4:    cells_per_year_median 0.000e+00 0.000e+00    NaN
+ 5:       cells_per_year_p90 5.980e+01 1.000e+01 0.1670
+ 6:       cells_per_year_max 1.328e+03 3.305e+03 2.4900
+ 7: fraction_years_with_fire 3.875e-01 3.875e-01 1.0000
+ 8:   annual_fraction_burned 8.369e-03 4.382e-03 0.5240
+ 9:           rotation_years 1.195e+02 2.282e+02 1.9100
+10:           fires_per_year 4.875e-01 5.375e-01 1.1000
+11:         fire_size_median 1.200e+01 1.000e+00 0.0833
+12:            fire_size_p90 6.214e+02 1.435e+02 0.2310
+13:            fire_size_max 1.283e+03 3.305e+03 2.5800
+14:      fraction_fires_gt10 5.128e-01 2.093e-01 0.4080
+15:     fraction_fires_gt100 1.795e-01 1.279e-01 0.7130
+
+== pass6_pooled vs observed record (FPA-FOD / MTBS; counts scaled by area share 0.019 ) ==
+                           statistic  observed     ember   ratio
+                              <char>     <num>     <num>   <num>
+ 1:                   fires_per_year 6.655e-01 5.375e-01   0.808
+ 2:         lightning_fires_per_year 2.459e-01 1.938e-01   0.788
+ 3:                 fire_size_median 1.000e+00 1.000e+00   1.000
+ 4:                    fire_size_p90 1.000e+00 1.435e+02 144.000
+ 5:              fraction_fires_gt10 2.956e-02 2.093e-01   7.080
+ 6:             fraction_fires_gt100 1.675e-02 1.279e-01   7.640
+ 7:       annual_fraction_burned_fpa 2.554e-03 4.382e-03   1.720
+ 8:      annual_fraction_burned_mtbs 3.640e-03 4.382e-03   1.200
+ 9:              ignition_doy_median 2.210e+02 2.330e+02   1.050
+10:                 ignition_doy_p10 1.760e+02 1.630e+02   0.926
+11:                 ignition_doy_p90 2.650e+02 2.845e+02   1.070
+12: fraction_area_high_severity_mtbs 4.188e-01 4.659e-01   1.110
+
+== behavior diagnostics ==
+                       statistic     value
+                          <char>     <num>
+ 1:   ignition_attempts_per_year 5.375e-01
+ 2:            fires_per_attempt 1.000e+00
+ 3:           days_active_median 1.000e+00
+ 4:              days_active_p90 2.000e+00
+ 5:              days_active_max 8.000e+00
+ 6:        mean_ros_median_m_min 6.350e-01
+ 7:            max_ros_p90_m_min 1.717e+01
+ 8:   mean_intensity_median_kW_m 1.655e+02
+ 9:       max_intensity_p90_kW_m 3.108e+04
+10: fraction_cells_passive_crown 8.765e-01
+11:  fraction_cells_active_crown 2.328e-02
+12:        canopy_mortality_mean 5.019e-01
+13:    cells_per_fire_day_median 1.000e+00
+14:       cells_per_fire_day_p90 1.636e+02
+15:            burn_hours_median 3.500e+00
+16:          ignition_fwi_median 1.325e+01
+17:                  end_weather 1.163e-02
+18:             end_fuel_limited 0.000e+00
+19:               end_season_end 0.000e+00
+
+wrote /Users/jlamping/Documents/Reenvisioned_LANDIS_Fire/EMBER/calibration/runs/pass6_pooled 

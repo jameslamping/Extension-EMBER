@@ -1,0 +1,14 @@
+statistic,value
+years,33
+active_cells,491550
+cells_per_year_mean,1789.06060606061
+cells_per_year_median,0
+cells_per_year_p90,2040.2
+cells_per_year_max,29451
+fraction_years_with_fire,0.181818181818182
+annual_fraction_burned,0.003639630975609
+rotation_years,274.75312928742
+fraction_area_low,0.329155304121005
+fraction_area_moderate,0.25203678924101
+fraction_area_high,0.418807906637985
+mean_dnbr_burned,401.651535425738

@@ -1,0 +1,1016 @@
+year,doy,cause,size_ha,size_cells,fire_name,nwcg_general_cause
+2005,155,Human,0.0404686,1,CLEARWEST PEAK,Recreation and ceremony
+2005,184,Human,0.0404686,1,YA'LL,Recreation and ceremony
+2005,200,Human,0.0404686,1,MINERS GULCH,Recreation and ceremony
+2005,218,Human,0.0404686,1,VIOLA CREEK,Fireworks
+2005,224,Human,0.0404686,1,SKATE CREEK,Recreation and ceremony
+2005,239,Human,0.0404686,1,SNYDER CREEK,Recreation and ceremony
+2005,211,Human,0.607029,1,BUMPING RIVER,Missing data/not specified/undetermined
+2005,234,Human,0.0404686,1,LONGMIRE,Smoking
+2005,226,Human,0.0404686,1,RIMROCK,Recreation and ceremony
+2005,209,Human,1.011715,1,SOUTH FORK TIETON,Arson/incendiarism
+2005,240,Human,0.0404686,1,BEAR CREEK,Smoking
+2005,226,Human,0.0404686,1,RICHMOND,Fireworks
+2006,218,Human,0.607029,1,GLACIER VIEW,Smoking
+2006,246,Human,0.0404686,1,KINCAID,Smoking
+2006,258,Human,0.0404686,1,CORA,Smoking
+2006,253,Human,0.607029,1,BERRY CREEK,Recreation and ceremony
+2006,253,Human,0.0404686,1,CEDARBROOK,Recreation and ceremony
+2006,237,Human,0.0404686,1,CARLTON,Recreation and ceremony
+2006,239,Human,0.0404686,1,DUFF,Smoking
+2006,246,Human,0.0404686,1,ROCK,Fireworks
+2006,185,Lightning,0.0404686,1,GRANITE,Natural
+2006,186,Lightning,0.0404686,1,FAWN CREEK,Natural
+2006,190,Human,0.0404686,1,INDIAN CREEK,Recreation and ceremony
+2006,191,Lightning,0.1214058,1,MT. CLIFTY TRAIL,Natural
+2006,219,Human,0.0404686,1,BACK LOOP,Recreation and ceremony
+2006,221,Human,0.0404686,1,SADDLE,Recreation and ceremony
+2006,227,Human,0.0809372,1,TP,Debris and open burning
+2006,232,Human,0.0404686,1,OVERLOOK,Recreation and ceremony
+2006,235,Human,0.0404686,1,ELEANOR CREEK,Smoking
+2006,238,Human,0.0404686,1,PYRAMID,Recreation and ceremony
+2006,245,Human,78.104398,96,GREENWATER 7440,Recreation and ceremony
+2006,246,Human,0.404686,1,AIRSTRIP,Missing data/not specified/undetermined
+2006,249,Human,0.0404686,1,SMALL CHANGE,Recreation and ceremony
+2006,275,Human,0.0404686,1,ANTHILL,Missing data/not specified/undetermined
+2006,248,Human,0.0404686,1,MILLER STUMP,Recreation and ceremony
+2006,289,Human,0.0404686,1,TWIN  TOWERS,Recreation and ceremony
+2006,202,Lightning,0.0404686,1,LOOKOUT CREEK,Natural
+2006,235,Human,0.0404686,1,AMERICAN RIVER,Missing data/not specified/undetermined
+2006,255,Human,0.0404686,1,UPPER NILE,Recreation and ceremony
+2006,273,Human,0.4451546,1,CLEAR LAKE,Missing data/not specified/undetermined
+2007,194,Lightning,0.0404686,1,CHIMNEY CREEK,Natural
+2007,248,Human,0.0404686,1,JOHNSON,Smoking
+2007,220,Human,0.0404686,1,JODY'S,Recreation and ceremony
+2007,261,Human,0.0404686,1,LITTLE TIJUANA,Recreation and ceremony
+2007,233,Human,0.0404686,1,SILV. SPG TOOL SHED,Recreation and ceremony
+2007,237,Human,0.0404686,1,ARMY CAMP,Recreation and ceremony
+2007,148,Human,0.41277972,1,NILE CREEK,Missing data/not specified/undetermined
+2007,153,Lightning,0.0202343,1,FOX,Natural
+2007,161,Human,0.00404686,1,DOG LAKE,Recreation and ceremony
+2007,174,Human,0.0404686,1,TIETON ROAD,Recreation and ceremony
+2007,270,Human,0.00404686,1,SHEEP LAKE,Recreation and ceremony
+2007,262,Human,0.202343,1,CANNON ROAD,Smoking
+2007,194,Lightning,0.00404686,1,RAVENS ROOST,Natural
+2007,196,Lightning,0.0404686,1,PLEASENT VALLEY,Natural
+2007,201,Human,0.00404686,1,INDIAN FLAT,Recreation and ceremony
+2007,204,Human,0.0404686,1,JUNGLE CREEK,Recreation and ceremony
+2007,219,Lightning,0.00404686,1,LITTLE SISTER,Natural
+2007,246,Human,0.07689034,1,BEAR COVE,Missing data/not specified/undetermined
+2007,253,Human,0.00404686,1,GREEN PASS,Missing data/not specified/undetermined
+2007,311,Human,0.0404686,1,BERRY CAMP,Fireworks
+2007,217,Lightning,0.00404686,1,TUMAC,Natural
+2007,214,Human,43.706088,54,CROW CREEK,Equipment and vehicle use
+2007,217,Lightning,687.9662,849,RATTLESNAKE CREEK,Natural
+2007,309,Human,0.202343,1,MEEKS TABLE,Recreation and ceremony
+2007,309,Human,0.1011715,1,VENOM 18,Missing data/not specified/undetermined
+2008,195,Lightning,0.0404686,1,CLOVER,Natural
+2008,198,Human,0.00404686,1,LILY,Recreation and ceremony
+2008,185,Lightning,0.0404686,1,SHEPARD,Natural
+2008,194,Lightning,0.0404686,1,CLEAR WEST PEAK,Natural
+2008,195,Human,0.0404686,1,COPLAY LAKE,Arson/incendiarism
+2008,208,Human,0.0404686,1,DALLES RIDGE,Recreation and ceremony
+2008,214,Human,0.0404686,1,CROW CREEK,Recreation and ceremony
+2008,241,Human,0.00404686,1,622,Recreation and ceremony
+2008,257,Human,0.00404686,1,RODS GAP,Fireworks
+2008,294,Human,0.0607029,1,VENOM 28,Arson/incendiarism
+2008,138,Human,8.09372,10,SKYO,Recreation and ceremony
+2008,302,Human,4.856232,6,NELSON CREEK,Recreation and ceremony
+2009,144,Human,0.0404686,1,BOAT RAMP,Missing data/not specified/undetermined
+2009,145,Human,0.0404686,1,VENOM,Arson/incendiarism
+2009,151,Human,0.00404686,1,MCDANIEL LAKE,Recreation and ceremony
+2009,174,Human,0.00404686,1,PINE GRASS,Recreation and ceremony
+2009,193,Human,0.00404686,1,WILDCAT,Recreation and ceremony
+2009,197,Human,0.00404686,1,CLEAR LAKE,Recreation and ceremony
+2009,199,Human,0.0404686,1,BUMPING LAKE,Missing data/not specified/undetermined
+2009,201,Human,0.00404686,1,UPPER TIETON,Recreation and ceremony
+2009,210,Lightning,0.202343,1,PLEASANT VALLEY,Natural
+2009,202,Lightning,0.0404686,1,CAYADA CREEK,Natural
+2009,234,Human,0.0404686,1,SEED ORCHARD,Recreation and ceremony
+2009,214,Lightning,0.202343,1,DEEP CREEK,Natural
+2009,255,Lightning,0.0404686,1,SILVER,Natural
+2009,309,Human,0.1214058,1,TWIN CAMP,Recreation and ceremony
+2009,207,Lightning,0.1011715,1,FRYING PAN,Natural
+2009,207,Human,0.0404686,1,SKATE MOUNTAIN,Smoking
+2009,210,Lightning,0.202343,1,SKATE MOUNTAIN #2,Natural
+2009,210,Lightning,0.202343,1,ALLEN MOUNTAIN,Natural
+2009,210,Lightning,0.0404686,1,MESATCHEE,Natural
+2009,210,Lightning,11.331208,14,RIVER VIEW,Natural
+2009,213,Lightning,0.1011715,1,JUICY,Natural
+2009,221,Lightning,0.404686,1,SODA CRACKER,Natural
+2009,211,Lightning,0.0404686,1,CORTRIGHT,Natural
+2009,213,Lightning,0.202343,1,MEADOW,Natural
+2009,247,Human,0.0404686,1,FLEA,Arson/incendiarism
+2009,247,Human,0.0404686,1,CARLTON,Equipment and vehicle use
+2009,254,Human,0.0404686,1,TRI-MOUNTAIN VIEW,Arson/incendiarism
+2009,278,Human,0.0404686,1,JODY,Recreation and ceremony
+2009,228,Human,0.0404686,1,BORROW PIT,Recreation and ceremony
+2009,234,Human,0.00404686,1,BUMPING DIRTY ROOTS,Recreation and ceremony
+2009,265,Lightning,0.0404686,1,SILVER CREEK,Natural
+2009,271,Human,0.0404686,1,SOUTH FORK,Recreation and ceremony
+2009,246,Lightning,485.6232,600,TWIN PEAKS,Natural
+2009,207,Lightning,0.809372,1,MCNEAL PEAK,Natural
+2009,207,Lightning,121.4058,150,SHELL ROCK,Natural
+2009,218,Human,0.0404686,1,TIETON PASS,Recreation and ceremony
+2009,208,Lightning,0.809372,1,DEEP CREEK 2,Natural
+2009,236,Human,0.00404686,1,RIMROCK,Missing data/not specified/undetermined
+2009,254,Lightning,0.0404686,1,SADDLE,Natural
+2009,236,Human,0.00404686,1,LODGE POLE,Recreation and ceremony
+2009,254,Human,0.00404686,1,SALMON COVE,Recreation and ceremony
+2009,210,Lightning,0.0404686,1,SURPRISE LAKE,Natural
+2009,208,Human,0.0404686,1,BULLION BASIN,Missing data/not specified/undetermined
+1992,137,Human,0.404686,1,,Recreation and ceremony
+1992,138,Human,0.0404686,1,,Recreation and ceremony
+1992,185,Lightning,0.0404686,1,,Natural
+1992,200,Human,0.0404686,1,,Recreation and ceremony
+1992,216,Human,0.0404686,1,,Recreation and ceremony
+1992,224,Human,0.0404686,1,,Recreation and ceremony
+1992,232,Human,0.0404686,1,,Smoking
+1992,267,Human,0.0404686,1,,Smoking
+1992,284,Human,0.0404686,1,,Recreation and ceremony
+1992,300,Human,0.0809372,1,,Arson/incendiarism
+1992,139,Human,0.0404686,1,,Recreation and ceremony
+1992,138,Human,0.0404686,1,,Recreation and ceremony
+1992,144,Human,0.0404686,1,,Smoking
+1992,152,Human,0.0404686,1,,Missing data/not specified/undetermined
+1992,167,Human,0.0404686,1,,Recreation and ceremony
+1992,176,Human,0.0404686,1,,Recreation and ceremony
+1992,200,Human,0.0404686,1,,Missing data/not specified/undetermined
+1992,222,Human,0.0404686,1,,Recreation and ceremony
+1992,226,Lightning,0.0404686,1,,Natural
+1992,226,Lightning,0.0809372,1,,Natural
+1992,226,Lightning,0.0809372,1,,Natural
+1992,226,Lightning,0.202343,1,,Natural
+1992,226,Lightning,0.0404686,1,,Natural
+1992,232,Human,0.0404686,1,,Recreation and ceremony
+1992,209,Human,0.0404686,1,,Recreation and ceremony
+1992,236,Human,0.0404686,1,,Missing data/not specified/undetermined
+1992,237,Human,0.0404686,1,,Recreation and ceremony
+1992,236,Lightning,0.0404686,1,,Natural
+1992,246,Human,0.0404686,1,,Smoking
+1992,249,Human,0.0404686,1,,Recreation and ceremony
+1992,250,Human,0.0404686,1,,Recreation and ceremony
+1992,250,Human,0.0404686,1,,Recreation and ceremony
+1992,264,Human,0.0404686,1,,Recreation and ceremony
+1992,292,Human,0.0404686,1,,Recreation and ceremony
+1992,144,Human,0.0404686,1,,Recreation and ceremony
+1992,148,Human,0.0404686,1,,Recreation and ceremony
+1992,158,Human,0.0404686,1,,Smoking
+1992,162,Human,0.0404686,1,,Debris and open burning
+1992,169,Lightning,0.7284348,1,,Natural
+1992,192,Human,0.0404686,1,,Smoking
+1992,180,Lightning,0.0404686,1,,Natural
+1992,180,Lightning,0.0404686,1,,Natural
+1992,180,Lightning,0.0404686,1,,Natural
+1992,295,Human,0.0404686,1,,Recreation and ceremony
+1992,202,Lightning,0.0404686,1,,Natural
+1992,202,Lightning,0.0404686,1,,Natural
+1992,234,Lightning,0.202343,1,,Natural
+1992,237,Lightning,0.0404686,1,,Natural
+1992,239,Lightning,2.02343,2,,Natural
+1992,242,Lightning,0.0404686,1,,Natural
+1992,246,Human,0.0404686,1,,Equipment and vehicle use
+1992,249,Human,0.0404686,1,,Recreation and ceremony
+1992,264,Human,0.0404686,1,,Recreation and ceremony
+1992,281,Human,0.0404686,1,,Smoking
+1992,282,Human,0.0404686,1,,Equipment and vehicle use
+1992,284,Human,0.0404686,1,,Recreation and ceremony
+1992,300,Human,0.0404686,1,,Equipment and vehicle use
+1992,363,Human,0.1214058,1,,Missing data/not specified/undetermined
+1993,242,Human,0.0404686,1,,Recreation and ceremony
+1993,227,Human,0.0404686,1,,Recreation and ceremony
+1993,193,Human,0.0404686,1,,Equipment and vehicle use
+1993,235,Human,0.0404686,1,,Recreation and ceremony
+1993,269,Human,0.0404686,1,,Debris and open burning
+1993,313,Human,0.0809372,1,,Recreation and ceremony
+1993,138,Human,0.0404686,1,,Recreation and ceremony
+1993,252,Human,0.0404686,1,,Smoking
+1993,270,Human,0.0404686,1,,Smoking
+1993,277,Human,0.0404686,1,,Recreation and ceremony
+1993,177,Human,0.0404686,1,,Equipment and vehicle use
+1993,184,Human,0.0404686,1,,Recreation and ceremony
+1993,191,Human,0.0404686,1,,Missing data/not specified/undetermined
+1993,206,Human,0.0404686,1,,Recreation and ceremony
+1993,210,Lightning,0.0404686,1,,Natural
+1993,232,Human,0.0404686,1,,Recreation and ceremony
+1993,238,Human,0.0404686,1,,Recreation and ceremony
+1993,248,Human,0.1214058,1,,Smoking
+1993,249,Human,0.0404686,1,,Equipment and vehicle use
+1993,256,Human,0.0404686,1,,Recreation and ceremony
+1993,260,Human,0.0404686,1,,Equipment and vehicle use
+1993,263,Human,0.0404686,1,,Recreation and ceremony
+1993,275,Human,1.618744,2,,Recreation and ceremony
+1993,291,Human,0.0404686,1,,Recreation and ceremony
+1993,293,Human,0.0404686,1,,Arson/incendiarism
+1993,310,Human,0.0404686,1,,Recreation and ceremony
+1993,311,Human,0.0404686,1,,Recreation and ceremony
+1993,313,Human,0.0404686,1,,Recreation and ceremony
+1994,243,Lightning,0.0404686,1,,Natural
+1994,271,Lightning,0.0404686,1,,Natural
+1994,272,Lightning,0.0404686,1,,Natural
+1994,273,Lightning,0.0404686,1,,Natural
+1994,160,Human,0.0404686,1,,Recreation and ceremony
+1994,205,Lightning,0.0404686,1,,Natural
+1994,206,Lightning,0.0404686,1,,Natural
+1994,221,Human,0.0404686,1,,Recreation and ceremony
+1994,234,Human,0.0404686,1,,Recreation and ceremony
+1994,133,Human,0.404686,1,,Missing data/not specified/undetermined
+1994,148,Human,0.0404686,1,,Recreation and ceremony
+1994,153,Human,0.0404686,1,,Recreation and ceremony
+1994,175,Lightning,0.202343,1,,Natural
+1994,177,Human,0.1214058,1,,Recreation and ceremony
+1994,188,Human,0.0404686,1,,Recreation and ceremony
+1994,194,Lightning,0.0404686,1,,Natural
+1994,194,Lightning,0.202343,1,,Natural
+1994,194,Lightning,0.0809372,1,,Natural
+1994,198,Lightning,0.0404686,1,,Natural
+1994,198,Human,0.0404686,1,,Recreation and ceremony
+1994,201,Human,0.0404686,1,,Recreation and ceremony
+1994,203,Human,0.0404686,1,,Recreation and ceremony
+1994,205,Lightning,0.0404686,1,,Natural
+1994,205,Lightning,0.404686,1,,Natural
+1994,213,Lightning,0.404686,1,,Natural
+1994,205,Lightning,0.809372,1,,Natural
+1994,206,Lightning,0.0404686,1,,Natural
+1994,205,Lightning,0.0404686,1,,Natural
+1994,205,Lightning,0.0404686,1,,Natural
+1994,205,Lightning,0.0404686,1,,Natural
+1994,206,Lightning,0.0404686,1,,Natural
+1994,207,Lightning,0.0809372,1,,Natural
+1994,206,Lightning,0.0404686,1,,Natural
+1994,207,Lightning,0.0404686,1,,Natural
+1994,209,Lightning,0.0404686,1,,Natural
+1994,208,Lightning,1.618744,2,,Natural
+1994,209,Lightning,0.607029,1,,Natural
+1994,212,Human,0.0404686,1,,Recreation and ceremony
+1994,212,Lightning,0.0404686,1,,Natural
+1994,222,Human,0.0404686,1,,Smoking
+1994,234,Lightning,0.3237488,1,,Natural
+1994,234,Human,0.0404686,1,,Missing data/not specified/undetermined
+1994,241,Human,0.0404686,1,,Recreation and ceremony
+1994,243,Lightning,0.0404686,1,,Natural
+1994,243,Lightning,0.404686,1,,Natural
+1994,244,Lightning,0.0404686,1,,Natural
+1994,244,Lightning,0.0404686,1,,Natural
+1994,245,Lightning,0.0809372,1,,Natural
+1994,245,Human,0.0404686,1,,Recreation and ceremony
+1994,275,Human,0.0404686,1,,Recreation and ceremony
+1995,144,Lightning,0.0404686,1,LONG LAKE #2,Natural
+1995,214,Human,0.0404686,1,PURCELL CREEK,Recreation and ceremony
+1995,259,Human,0.0404686,1,TOKACH,Recreation and ceremony
+1995,21,Human,0.0404686,1,CABIN,Missing data/not specified/undetermined
+1995,197,Human,0.0809372,1,SIDEBURNS,Missing data/not specified/undetermined
+1995,218,Human,0.0404686,1,EVANS CREEK,Recreation and ceremony
+1995,138,Human,0.0404686,1,PINEGRASS RIDGE,Recreation and ceremony
+1995,124,Human,0.0404686,1,ANDY 20,Missing data/not specified/undetermined
+1995,182,Human,0.0404686,1,PILEUP,Missing data/not specified/undetermined
+1995,185,Human,0.0404686,1,CLEAR LAKE CAMPSITE,Recreation and ceremony
+1995,188,Lightning,0.0404686,1,DRY CREEK,Natural
+1995,191,Lightning,0.0404686,1,JUNGLE CREEK,Natural
+1995,199,Lightning,6.07029,7,BLANKENSHIP NORTH,Natural
+1995,200,Lightning,0.404686,1,BIG BASIN,Natural
+1995,199,Lightning,10.11715,12,PIPE LAKE,Natural
+1995,200,Lightning,0.0404686,1,SHELTER CREEK,Natural
+1995,199,Lightning,4.04686,5,GOODWIN MEADOW,Natural
+1995,200,Lightning,0.0404686,1,MESATCHEE,Natural
+1995,199,Lightning,1.214058,1,BIG SISTER,Natural
+1995,200,Lightning,0.0404686,1,CASH PRAIRIE,Natural
+1995,200,Lightning,0.809372,1,FIELDHOUSEE,Natural
+1995,201,Lightning,0.202343,1,KAMIAKAN BUTTE,Natural
+1995,200,Lightning,0.0404686,1,PEAR BUTTE,Natural
+1995,200,Lightning,0.1214058,1,NELSON BUTTE,Natural
+1995,209,Human,0.0404686,1,BURNING LODGEPOLE,Missing data/not specified/undetermined
+1995,225,Human,0.0404686,1,GOOSE PRAIRIE,Missing data/not specified/undetermined
+1995,245,Human,0.3237488,1,1791,Smoking
+1995,246,Human,0.0404686,1,CROSSING LOG,Recreation and ceremony
+1995,247,Lightning,0.0809372,1,CEMENT BASIN,Natural
+1995,250,Lightning,0.0404686,1,EAST TUMAC,Natural
+1996,193,Human,0.0404686,1,BOB'S BACK,Smoking
+1996,238,Human,0.0404686,1,NO OATS,Smoking
+1996,236,Human,0.0404686,1,BIG CREEK,Smoking
+1996,235,Human,0.202343,1,ISLAND,Recreation and ceremony
+1996,234,Human,0.0404686,1,POTHOLE LAKE,Recreation and ceremony
+1996,244,Human,0.202343,1,FLASH,Recreation and ceremony
+1996,260,Lightning,0.0404686,1,MEGANS,Natural
+1996,196,Human,0.0404686,1,CLEAR LAKE,Recreation and ceremony
+1996,225,Human,0.0404686,1,COUGAR FLAT,Recreation and ceremony
+1996,234,Human,0.0404686,1,AMERICAN RIVER,Recreation and ceremony
+1996,246,Human,0.0404686,1,NORTH FORK,Recreation and ceremony
+1996,265,Human,0.0404686,1,GOOSE PRAIRIE,Missing data/not specified/undetermined
+1996,177,Human,0.0404686,1,ANT,Recreation and ceremony
+1997,193,Human,0.0404686,1,NO LUNCH,Recreation and ceremony
+1997,248,Human,0.0404686,1,NOBLE NOB 1,Missing data/not specified/undetermined
+1997,250,Human,0.0404686,1,RAWHIDE,Smoking
+1997,187,Human,0.0404686,1,NORTHFORK,Recreation and ceremony
+1997,201,Human,0.0404686,1,INDIAN CREEK,Recreation and ceremony
+1997,215,Human,0.0404686,1,THUNDER & LIGHTNING,Smoking
+1997,223,Human,0.0404686,1,FIFE'S PEAK,Recreation and ceremony
+1997,224,Human,0.404686,1,DEEP CREEK,Missing data/not specified/undetermined
+1997,254,Lightning,0.0404686,1,GOOSE PRAIRIE,Natural
+1997,254,Lightning,0.0404686,1,RATTLER,Natural
+1997,255,Lightning,0.3237488,1,CEDAR LANE,Natural
+1997,255,Lightning,0.0404686,1,GRANITE,Natural
+1998,214,Lightning,2.02343,2,WEST FORK #1,Natural
+1998,110,Human,2.02343,2,WESEL,Debris and open burning
+1998,243,Human,0.0404686,1,BOWEN,Recreation and ceremony
+1998,242,Human,0.0404686,1,BEARHEAD,Recreation and ceremony
+1998,244,Human,0.0404686,1,CRYSTAL #1,Recreation and ceremony
+1998,243,Human,0.0404686,1,GERBIL,Missing data/not specified/undetermined
+1998,248,Human,0.0404686,1,CHARLEY,Recreation and ceremony
+1998,250,Human,0.0404686,1,CEDAR,Recreation and ceremony
+1998,253,Human,0.0404686,1,HUNTER,Recreation and ceremony
+1998,257,Human,0.0404686,1,EVANS CREEK,Missing data/not specified/undetermined
+1998,258,Human,0.0404686,1,BUCK,Missing data/not specified/undetermined
+1998,259,Human,0.0809372,1,WRONG,Recreation and ceremony
+1998,270,Human,0.0404686,1,,Debris and open burning
+1998,278,Human,0.0404686,1,SKOOKUM,Recreation and ceremony
+1998,207,Lightning,1.618744,2,SECLUSION,Natural
+1998,207,Lightning,2.832802,3,,Natural
+1998,210,Lightning,93.887152,116,WHITE PASS,Natural
+1998,210,Lightning,1.618744,2,,Natural
+1998,210,Lightning,0.809372,1,,Natural
+1998,221,Human,0.0404686,1,COPPER CREEK,Recreation and ceremony
+1998,294,Human,2.428116,3,DALLES LAKE,Arson/incendiarism
+1998,158,Lightning,0.1214058,1,MEEKS TABLE,Natural
+1998,175,Human,0.0404686,1,INDIAN CREEK,Recreation and ceremony
+1998,180,Lightning,0.0404686,1,SHELLROCK,Natural
+1998,181,Human,0.0404686,1,INDIAN FLAT,Recreation and ceremony
+1998,183,Lightning,0.0404686,1,NORTH RATTLESNAKE,Natural
+1998,216,Human,0.0404686,1,ZARAHELMA,Recreation and ceremony
+1998,207,Human,0.404686,1,CHIPMUNK,Recreation and ceremony
+1998,207,Lightning,0.404686,1,,Natural
+1998,210,Lightning,0.404686,1,SWAMP LAKE,Natural
+1998,207,Lightning,16.18744,20,,Natural
+1998,210,Lightning,0.404686,1,PINEGRASS RIDGE,Natural
+1998,211,Lightning,0.0404686,1,ROUND MOUNTAIN,Natural
+1998,211,Lightning,0.0404686,1,AMERICAN RIDGE,Natural
+1998,213,Human,0.0404686,1,BUMPING LAKE,Recreation and ceremony
+1998,213,Human,0.0404686,1,LAKE,Recreation and ceremony
+1998,215,Lightning,0.404686,1,AMERICAN RIDGE #2,Natural
+1998,217,Human,0.0809372,1,DRIFTWOOD,Recreation and ceremony
+1998,238,Human,0.0404686,1,TIMOTHY,Missing data/not specified/undetermined
+1998,270,Lightning,0.202343,1,MIRIAM,Natural
+1998,334,Human,0.0404686,1,ARMY CAMP,Recreation and ceremony
+1998,307,Human,0.0404686,1,THREE CREEKS,Recreation and ceremony
+1998,305,Human,0.0404686,1,BETHAL,Recreation and ceremony
+1998,308,Human,0.0404686,1,MCDANIEL LAKE,Recreation and ceremony
+1998,233,Lightning,0.0404686,1,ART,Natural
+1998,237,Lightning,0.0404686,1,TATOOSH,Natural
+1998,240,Lightning,8.09372,10,DOCK,Natural
+1998,248,Lightning,0.202343,1,CARLTON CREEK,Natural
+1998,249,Lightning,0.0404686,1,PONY CREEK,Natural
+1999,264,Human,0.0404686,1,COPPER,Smoking
+1999,293,Human,0.0404686,1,SODA SPRINGS,Recreation and ceremony
+1999,171,Human,0.0404686,1,MOSQUITO CREEK,Recreation and ceremony
+1999,190,Human,0.0404686,1,MILE 142,Equipment and vehicle use
+1999,268,Human,0.0404686,1,S.A.R.,Recreation and ceremony
+1999,144,Human,0.404686,1,CLEAR LAKE,Power generation/transmission/distribution
+1999,149,Human,0.0404686,1,INDIAN CREEK,Equipment and vehicle use
+1999,154,Human,0.0404686,1,SOUP CREEK,Smoking
+1999,185,Human,0.0404686,1,RAVENS,Recreation and ceremony
+1999,165,Human,0.0404686,1,SILVER KNOB,Recreation and ceremony
+1999,204,Lightning,0.0404686,1,RIM,Natural
+1999,217,Lightning,0.0404686,1,RATTLESNAKE,Natural
+1999,215,Lightning,0.0404686,1,CRAMER MOUNTAIN,Natural
+1999,234,Human,0.0404686,1,LITTLE BIG SPOT,Recreation and ceremony
+1999,242,Human,0.0404686,1,LOST MEADOW,Recreation and ceremony
+1999,249,Human,0.0404686,1,PINUS CREEK,Recreation and ceremony
+1999,249,Lightning,0.0404686,1,PACIFIC CREST,Natural
+1999,257,Human,0.0404686,1,UNION CREEK #2,Recreation and ceremony
+1999,265,Human,0.0404686,1,BUMPING CROSSING,Smoking
+1999,268,Human,0.0404686,1,DAM POWER FIRE,Power generation/transmission/distribution
+1999,269,Human,0.0404686,1,BOOTJACK,Power generation/transmission/distribution
+1999,288,Human,0.0404686,1,WESTFALL,Recreation and ceremony
+1999,295,Human,0.404686,1,WINDY RIDGE,Recreation and ceremony
+1999,214,Human,0.0404686,1,LAB,Recreation and ceremony
+1999,217,Lightning,1.618744,2,DALLES RIDGE,Natural
+1999,238,Human,0.0404686,1,LOT #16,Debris and open burning
+1999,241,Human,0.0404686,1,KATHY'S KAMPFIRE,Recreation and ceremony
+1999,311,Human,0.0404686,1,TED'S CAMPFIRE,Arson/incendiarism
+2000,212,Human,0.0809372,1,GREENWATER 21,Recreation and ceremony
+2000,219,Human,0.0809372,1,WINDY GAP,Smoking
+2000,150,Human,0.0404686,1,BEAR CREEK,Recreation and ceremony
+2000,188,Human,0.0404686,1,BUMPING CROSSING,Recreation and ceremony
+2000,197,Human,0.0404686,1,UPPER BUMPING LAKE,Missing data/not specified/undetermined
+2000,227,Human,0.809372,1,CHIPMUNK,Missing data/not specified/undetermined
+2000,231,Human,0.0404686,1,SOUTH BUMPING,Recreation and ceremony
+2000,235,Human,0.0404686,1,JUNGLE CREEK #2,Recreation and ceremony
+2000,259,Human,0.0404686,1,1608 RD,Recreation and ceremony
+2000,263,Human,0.0404686,1,UNION CREEK,Smoking
+2000,264,Human,0.0404686,1,BUMPING LAKE,Smoking
+2000,279,Human,0.0404686,1,PYAMID,Recreation and ceremony
+2000,306,Human,0.0404686,1,ALDER BRUSH,Recreation and ceremony
+2000,201,Human,0.0404686,1,JUNGLE,Recreation and ceremony
+2000,212,Human,0.0404686,1,HELLS CROSSING,Debris and open burning
+2000,268,Human,0.404686,1,HELL CREEK,Recreation and ceremony
+2000,182,Human,0.0404686,1,SINGER,Smoking
+2001,169,Human,0.0404686,1,INDIAN CREEK,Recreation and ceremony
+2001,210,Human,0.0404686,1,CLEAR CREEK,Smoking
+2001,210,Human,0.0404686,1,BUMPING CROSSING,Recreation and ceremony
+2001,216,Human,0.0404686,1,TIMOTHY,Equipment and vehicle use
+2001,185,Human,0.0404686,1,DUDLEY DISPERSED,Recreation and ceremony
+2001,193,Lightning,218.53044,270,DOG CREEK,Natural
+2001,226,Lightning,0.0404686,1,SPIRAL BUTTE,Natural
+2001,224,Lightning,0.0404686,1,KITTEN CREEK,Natural
+2001,258,Lightning,1.214058,1,N. FORK RATTLESNAKE,Natural
+2001,267,Human,0.0404686,1,CLEAR LAKE,Smoking
+2001,187,Human,0.0404686,1,CLEAR CREEK 2,Missing data/not specified/undetermined
+2001,293,Human,0.0404686,1,FIFES RIDGE,Recreation and ceremony
+2001,293,Human,0.0404686,1,UNION CREEK,Recreation and ceremony
+2001,281,Human,0.0404686,1,CLEAR CREEK 3,Recreation and ceremony
+2001,296,Human,0.0404686,1,BEAR COVE,Recreation and ceremony
+2001,184,Human,0.0404686,1,RED ROCK,Smoking
+2001,201,Human,0.0404686,1,7015,Recreation and ceremony
+2001,223,Human,0.0404686,1,BROWNELL,Recreation and ceremony
+2001,224,Human,0.0404686,1,AIRSTRIP ONE,Recreation and ceremony
+2001,225,Human,0.0404686,1,WEST FORK ONE,Recreation and ceremony
+2001,187,Human,0.0404686,1,THUNDERBIRD,Equipment and vehicle use
+2001,177,Human,0.0404686,1,ANT,Misuse of fire by a minor
+2002,174,Human,0.0404686,1,BUMPING CAMPGROUND,Recreation and ceremony
+2002,216,Human,0.0404686,1,CLEAR FIREWORKS,Fireworks
+2002,212,Human,0.0404686,1,BLOWOUT CREEK,Equipment and vehicle use
+2002,243,Human,0.0404686,1,BUCK CREEK,Equipment and vehicle use
+2002,236,Lightning,0.0809372,1,KELLY 1,Natural
+2002,307,Human,0.0404686,1,HARVEST,Smoking
+2002,291,Human,2.832802,3,CAYADA CREEK,Recreation and ceremony
+2002,251,Lightning,0.0404686,1,CROW CREEK,Natural
+2002,255,Lightning,0.809372,1,CHIPMUNK ROAD,Natural
+2002,187,Human,0.1214058,1,KANER FLAT,Equipment and vehicle use
+2002,235,Human,0.0404686,1,HELLS CROSSING WEST,Smoking
+2002,243,Human,0.0404686,1,SOUTH CLEAR LAKE,Fireworks
+2002,243,Human,0.0404686,1,UNION CREEK FALLS,Smoking
+2002,298,Human,0.0404686,1,SOURDOUGH,Recreation and ceremony
+2002,305,Human,0.0404686,1,WHITE WASHOUT,Recreation and ceremony
+2002,174,Human,0.0404686,1,GRACE,Recreation and ceremony
+2002,263,Human,0.1214058,1,AMERICA RIVER,Recreation and ceremony
+2002,301,Human,1.214058,1,RIM,Recreation and ceremony
+2002,308,Human,2.02343,2,WEST FALL,Missing data/not specified/undetermined
+2002,202,Human,0.0404686,1,CLEAR LAKE,Recreation and ceremony
+2002,229,Human,0.0404686,1,HORSE CREEK,Recreation and ceremony
+2002,299,Human,0.0404686,1,TEELEY CREEK,Recreation and ceremony
+2003,180,Lightning,4.04686,5,HUCKLEBERRY RIDGE #1,Natural
+2003,180,Lightning,0.809372,1,ELEANOR CREEK #1,Natural
+2003,180,Lightning,2.832802,3,HUCKLEBERRY RIDGE #2,Natural
+2003,185,Lightning,0.1011715,1,NOSEDIVE CREEK,Natural
+2003,185,Lightning,0.1011715,1,ELEANOR CREEK #3,Natural
+2003,180,Lightning,0.1011715,1,ELEANOR CREEK #2,Natural
+2003,185,Lightning,0.1011715,1,ELEANOR CREEK #4,Natural
+2003,222,Human,0.0404686,1,ROAD 73 CREEK,Smoking
+2003,235,Human,0.0404686,1,LITTLE DOE,Recreation and ceremony
+2003,244,Human,0.0404686,1,SWEET TOOTH,Recreation and ceremony
+2003,224,Human,0.0404686,1,OLSON,Recreation and ceremony
+2003,241,Lightning,0.202343,1,CLEAR LILY LAKE,Natural
+2003,200,Human,0.0404686,1,WRONG CREEK,Recreation and ceremony
+2003,187,Human,0.0404686,1,MCDANIEL LAKE,Fireworks
+2003,230,Human,0.0404686,1,AUSTIN,Recreation and ceremony
+2003,219,Lightning,1.618744,2,FALLS CREEK,Natural
+2003,223,Human,0.0404686,1,COUGAR FLATS,Recreation and ceremony
+2003,226,Human,0.2428116,1,PINE GRASS,Arson/incendiarism
+2003,272,Human,0.404686,1,CROW,Smoking
+2003,267,Human,0.404686,1,TWIN SISTERS,Recreation and ceremony
+2003,179,Human,0.0404686,1,PINEGRASS RIDGE,Missing data/not specified/undetermined
+2003,230,Human,0.0404686,1,HORSE,Smoking
+2003,236,Human,0.0404686,1,LA WIS WIS,Recreation and ceremony
+2003,267,Lightning,0.202343,1,CEDAR,Natural
+2003,237,Lightning,0.404686,1,COPPER CREEK,Natural
+2003,239,Human,0.0404686,1,59 ROAD,Equipment and vehicle use
+2003,236,Lightning,0.202343,1,LOST CREEK,Natural
+2003,236,Lightning,129.904206,160,LOST LAKE,Natural
+2003,223,Lightning,6.474976,8,BEARGRASS,Natural
+2004,172,Lightning,0.0404686,1,DALLES RIDGE #1,Natural
+2004,171,Lightning,0.0809372,1,SUMMER HOMES,Natural
+2004,171,Lightning,8.903092,11,SUNTOP #1,Natural
+2004,215,Lightning,0.202343,1,SUNTOP #2,Natural
+2004,193,Human,0.0404686,1,7013ESCAPED CAMPFIRE,Recreation and ceremony
+2004,205,Human,0.0404686,1,DALLES CAMPGROUND,Missing data/not specified/undetermined
+2004,212,Human,0.0404686,1,SKOOKUM TRAILHEADVEH,Equipment and vehicle use
+2004,229,Lightning,0.0809372,1,HALLER PASS,Natural
+2004,233,Lightning,0.404686,1,HALLER PASS 2,Natural
+2004,173,Human,0.0404686,1,UNION CREEK,Arson/incendiarism
+2004,195,Lightning,0.0404686,1,TWIN SISTERS,Natural
+2004,200,Lightning,0.0404686,1,SUNRISE CREEK,Natural
+2004,200,Lightning,0.404686,1,SISTERS LAKE,Natural
+2004,201,Lightning,0.0404686,1,GOOSE,Natural
+2004,277,Human,0.607029,1,LITTLE BALD,Recreation and ceremony
+2004,207,Lightning,0.0404686,1,VIKING FIRE,Natural
+2004,195,Lightning,315.65508,390,RATTLESNAKE PEAK,Natural
+2004,218,Lightning,0.0404686,1,AMERICAN RIDGE TRAIL,Natural
+2004,226,Human,0.0404686,1,MATHEW MEADOW,Recreation and ceremony
+2004,229,Lightning,0.404686,1,CEDAR LAKE,Natural
+2004,215,Human,0.0404686,1,MINER CREEK,Recreation and ceremony
+2004,230,Lightning,2.428116,3,SPIRAL BUTTE,Natural
+2004,229,Lightning,0.0404686,1,LILY LAKE,Natural
+2004,230,Lightning,0.0404686,1,TWIN PEAK,Natural
+2004,231,Lightning,0.0809372,1,INDIAN CREEK,Natural
+2004,218,Lightning,0.0809372,1,DEEP CREEK,Natural
+2004,98,Human,0.0404686,1,ANDY CREEK,Debris and open burning
+2004,142,Lightning,0.202343,1,UPPER TIETON,Natural
+2004,195,Lightning,0.0404686,1,GLASS CREEK,Natural
+2004,207,Human,0.0404686,1,SLEEPY HOLLOW,Recreation and ceremony
+2004,195,Lightning,0.1011715,1,DAM CREEK,Natural
+2004,195,Lightning,0.1011715,1,FRYING PAN,Natural
+2004,195,Lightning,0.1011715,1,PENOYER LAKE,Natural
+2004,195,Lightning,0.5058575,1,061 ROAD,Natural
+2004,195,Lightning,0.1011715,1,69 TRAIL,Natural
+2004,195,Lightning,0.1011715,1,BEAVER BILL,Natural
+2004,195,Lightning,0.1011715,1,BEAVER BOB,Natural
+2004,195,Lightning,0.1011715,1,79 TRAIL,Natural
+2004,196,Lightning,3.237488,4,COAL CREEK,Natural
+2004,197,Lightning,0.1011715,1,COAL CREEK #2,Natural
+2004,199,Lightning,0.1011715,1,COAL CREEK #3,Natural
+2004,199,Lightning,0.1011715,1,COAL CREEK #4,Natural
+2004,198,Lightning,0.1011715,1,JUG LAKE,Natural
+2004,200,Lightning,0.1011715,1,HENRY LAKE,Natural
+2004,228,Lightning,1.214058,1,HOGBACK,Natural
+2004,231,Lightning,0.13354638,1,DEAD END,Natural
+1992,179,Lightning,0.0404686,1,WAHPENAYO,Natural
+1992,179,Lightning,0.0404686,1,BEAVER,Natural
+1992,179,Lightning,0.0404686,1,MOSQUITO,Natural
+1992,179,Lightning,0.0404686,1,SUNRISE LK,Natural
+1992,225,Lightning,0.1214058,1,SUNSET,Natural
+1992,230,Human,0.0404686,1,OHANACGC18,Recreation and ceremony
+1992,237,Human,0.0404686,1,COUGARROCK,Recreation and ceremony
+1993,184,Human,0.0404686,1,OHANA G8,Recreation and ceremony
+1994,205,Lightning,0.0404686,1,SILVERFORS,Natural
+1994,205,Lightning,0.0404686,1,GOATISLAND,Natural
+1994,205,Lightning,0.0404686,1,MCNEELEY,Natural
+1994,205,Lightning,0.0404686,1,YAKIMAPARK,Natural
+1994,205,Lightning,0.0404686,1,SEYMOURPEA,Natural
+1994,205,Lightning,0.0404686,1,SUNRISE,Natural
+1994,205,Lightning,0.0404686,1,STJACOB,Natural
+1994,215,Lightning,0.0404686,1,GRAND,Natural
+1994,215,Lightning,0.0404686,1,COLD BASIN,Natural
+1994,215,Lightning,0.0404686,1,ELK RIDGE,Natural
+1994,215,Lightning,0.0404686,1,SCARFACE,Natural
+1994,215,Human,0.0404686,1,FIVE-BY,Smoking
+1997,231,Lightning,0.1214058,1,DEER CREEK,Natural
+1997,232,Lightning,0.1214058,1,SHRINER,Natural
+1997,244,Lightning,0.0404686,1,MARCUS,Natural
+1998,180,Lightning,0.0404686,1,DEADWOODCR,Natural
+1998,233,Lightning,0.1214058,1,SHADOW,Natural
+1998,239,Lightning,0.3642174,1,MOTHER,Natural
+1998,241,Lightning,0.0404686,1,JOSEPHINE,Natural
+1998,254,Lightning,0.0404686,1,COWLITZ,Natural
+1998,283,Human,0.0404686,1,ALTA VISTA,Recreation and ceremony
+1999,215,Lightning,0.0404686,1,MAZAMA,Natural
+1999,215,Lightning,0.0404686,1,VISTA,Natural
+1999,218,Lightning,0.0404686,1,WHITE,Natural
+2000,216,Human,0.404686,1,WHITERIVER,Missing data/not specified/undetermined
+2000,225,Human,0.0404686,1,OHANAC28,Recreation and ceremony
+2000,229,Human,0.0404686,1,TIPSOO1,Recreation and ceremony
+2000,240,Human,0.0404686,1,B23,Recreation and ceremony
+2000,287,Human,0.0404686,1,MOWICHCG1,Recreation and ceremony
+2001,49,Human,0.0404686,1,PAULPEAKTH,Arson/incendiarism
+2001,214,Human,0.0404686,1,WRCGD21,Recreation and ceremony
+2001,224,Human,0.0404686,1,GHOSTLAKE1,Recreation and ceremony
+2001,237,Human,0.0404686,1,VANTRUMP1,Recreation and ceremony
+2001,314,Human,0.0404686,1,TIPSOO2,Recreation and ceremony
+2002,193,Human,0.0404686,1,RICKSECKER,Missing data/not specified/undetermined
+2002,236,Lightning,0.0404686,1,SHEEPSKULL,Natural
+2002,240,Lightning,0.202343,1,BOULDER1,Natural
+2002,240,Lightning,2.02343,2,LKELEANOR,Natural
+2002,240,Lightning,0.202343,1,BOULDER2,Natural
+2002,240,Lightning,0.0404686,1,BACKBONE,Natural
+2002,241,Lightning,0.809372,1,COLDBASIN,Natural
+2002,253,Lightning,0.0404686,1,SEYMOURPK,Natural
+2003,217,Lightning,22.662416,28,PANTHER1,Natural
+2004,171,Lightning,0.0404686,1,BERRYPEAK,Natural
+2004,171,Lightning,0.0404686,1,HOWARDPEAK,Natural
+2004,195,Lightning,0.0404686,1,MAZAMA,Natural
+2004,229,Lightning,0.3237488,1,TAMANOS,Natural
+2004,229,Lightning,0.0809372,1,CLOVER,Natural
+2004,229,Lightning,0.0404686,1,UPP.YAKIMA,Natural
+2004,229,Lightning,0.0404686,1,TIRZAH,Natural
+2004,229,Lightning,0.0809372,1,BALDDIVIDE,Natural
+2004,229,Lightning,0.0404686,1,PROSPECTOR,Natural
+2007,153,Lightning,0.0404686,1,TAMANOS 2007,Natural
+2007,154,Lightning,0.0404686,1,GOVERNORS SMOKE,Natural
+2007,154,Lightning,0.0404686,1,ROCKCRUSHER,Natural
+2007,246,Lightning,0.202343,1,HIWAY 123,Natural
+2009,164,Lightning,0.0404686,1,CHINOOK,Natural
+2009,209,Lightning,0.1214058,1,NICKEL,Natural
+2009,209,Lightning,0.0404686,1,MAZAMA,Natural
+2009,209,Lightning,0.1214058,1,FAN,Natural
+2009,209,Lightning,0.1214058,1,FAIRY,Natural
+2009,209,Lightning,0.1214058,1,STEVENS,Natural
+2009,209,Lightning,0.1214058,1,UNICORN,Natural
+2009,209,Lightning,0.1214058,1,DEADHORSE,Natural
+2009,209,Lightning,0.0809372,1,LANE,Natural
+2009,209,Lightning,0.1214058,1,JOHNSON,Natural
+2009,209,Lightning,0.0404686,1,BUTTER,Natural
+2009,209,Lightning,0.1214058,1,COWLITZ 3,Natural
+2009,209,Lightning,0.1214058,1,COWLITZ 2,Natural
+2009,209,Lightning,0.1214058,1,COWLITZ 1,Natural
+2009,209,Lightning,0.0404686,1,FOSS,Natural
+2009,210,Lightning,0.0404686,1,ADELAIDE,Natural
+2009,210,Lightning,0.1214058,1,GREEN PARK,Natural
+2009,210,Lightning,0.1214058,1,ETHEL,Natural
+2009,210,Lightning,8.09372,10,GRAND PARK,Natural
+2009,210,Lightning,0.1214058,1,GRAND PARK 2,Natural
+2006,184,Lightning,0.0404686,1,,Natural
+2006,123,Human,0.2832802,1,,Debris and open burning
+2006,209,Human,3.642174,4,,Missing data/not specified/undetermined
+2006,225,Human,0.404686,1,,Missing data/not specified/undetermined
+2006,230,Human,113.31208,140,CARBON COPY,Arson/incendiarism
+2006,240,Human,0.404686,1,,Missing data/not specified/undetermined
+2006,283,Human,0.0404686,1,,Missing data/not specified/undetermined
+2006,227,Human,0.0404686,1,,Missing data/not specified/undetermined
+2006,227,Human,0.0404686,1,,Missing data/not specified/undetermined
+2006,245,Human,113.31208,140,,Missing data/not specified/undetermined
+2006,246,Human,0.202343,1,,Missing data/not specified/undetermined
+2006,113,Human,0.404686,1,,Debris and open burning
+2007,237,Human,0.6474976,1,NASTY CREEK,Recreation and ceremony
+2005,206,Human,0.00404686,1,,Missing data/not specified/undetermined
+2005,225,Human,0.202343,1,CARBON VIEW,Recreation and ceremony
+2005,235,Human,0.00404686,1,RUSTY BARREL,Recreation and ceremony
+2004,122,Human,0.404686,1,LITTLE CARBON,Recreation and ceremony
+2004,320,Human,14.16401,17,DOCTOR JECKYLL,Debris and open burning
+2004,216,Lightning,0.0404686,1,AINSLEY,Natural
+1992,85,Human,0.404686,1,,Missing data/not specified/undetermined
+1992,196,Human,0.0404686,1,,Debris and open burning
+1998,212,Lightning,1.011715,1,,Natural
+1998,308,Human,0.1214058,1,,Recreation and ceremony
+1995,149,Human,0.809372,1,,Recreation and ceremony
+1995,213,Human,0.0404686,1,,Recreation and ceremony
+1994,268,Human,0.1214058,1,,Smoking
+2000,238,Human,0.0809372,1,,Other causes
+2002,164,Human,0.404686,1,,Recreation and ceremony
+2000,199,Human,0.0404686,1,,Smoking
+2001,259,Human,0.0404686,1,,Recreation and ceremony
+2003,156,Human,1.011715,1,,Debris and open burning
+2003,156,Human,0.3237488,1,,Debris and open burning
+2003,184,Human,0.1214058,1,,Debris and open burning
+2003,257,Human,1.214058,1,,Recreation and ceremony
+1999,258,Human,0.0809372,1,,Recreation and ceremony
+1999,265,Human,0.1214058,1,,Recreation and ceremony
+1999,107,Human,0.0809372,1,,Equipment and vehicle use
+1999,239,Human,1.416401,2,,Recreation and ceremony
+1994,238,Human,0.0404686,1,,Smoking
+2001,220,Human,0.0404686,1,,Recreation and ceremony
+2001,321,Human,2.02343,2,,Arson/incendiarism
+2000,180,Human,0.607029,1,,Debris and open burning
+2003,217,Lightning,0.0404686,1,,Natural
+2002,290,Human,2.02343,2,,Recreation and ceremony
+1999,149,Human,0.809372,1,,Debris and open burning
+2003,204,Human,0.0404686,1,STILL,Equipment and vehicle use
+2003,180,Lightning,0.1011715,1,DALLES RIDGE #1,Natural
+2003,208,Human,0.0404686,1,HIDEAWAY,Recreation and ceremony
+2003,180,Lightning,2.02343,2,REDSTONE1,Natural
+2003,180,Lightning,2.02343,2,REDSTONE2,Natural
+2003,217,Lightning,0.0404686,1,NICKEL,Natural
+2003,217,Lightning,0.0404686,1,CHENUIS,Natural
+2003,217,Lightning,125.45266,155,REDSTONE3,Natural
+2003,165,Human,0.0404686,1,COUGARB27,Recreation and ceremony
+2003,266,Lightning,8.09372,10,CARBON,Natural
+2003,206,Human,0.0404686,1,COUGARC1,Recreation and ceremony
+2003,229,Human,0.0404686,1,OHANAA27,Recreation and ceremony
+2003,229,Human,0.0404686,1,OHANAF8,Recreation and ceremony
+2004,243,Human,0.0404686,1,A39,Recreation and ceremony
+2010,237,Human,0.0404686,1,BERRY CREEK,Recreation and ceremony
+2010,223,Human,0.0202343,1,ROCK PIT,Recreation and ceremony
+2010,239,Lightning,0.1214058,1,NORTH FORK,Natural
+2010,210,Lightning,0.0809372,1,HELL FIRE,Natural
+2010,206,Human,0.0404686,1,LOST MEADOW,Equipment and vehicle use
+2010,218,Lightning,10.11715,12,WILDCAT,Natural
+2010,213,Human,0.0404686,1,SUNRISE,Recreation and ceremony
+2010,227,Human,0.00404686,1,SUNRISE #2,Smoking
+2010,212,Lightning,0.202343,1,SILVER KING,Natural
+2010,189,Human,0.0404686,1,WHISTLE CREEK,Recreation and ceremony
+2010,262,Human,0.0404686,1,JUGG,Recreation and ceremony
+2010,226,Human,0.0202343,1,WHITE RIVER,Recreation and ceremony
+2010,227,Human,0.809372,1,GEORGE CREEK,Recreation and ceremony
+2010,228,Human,0.0404686,1,BLUFF,Recreation and ceremony
+2010,234,Human,0.202343,1,CAYADA MOUNTAIN,Missing data/not specified/undetermined
+2010,234,Human,0.0404686,1,BURNS,Recreation and ceremony
+2010,243,Human,0.00404686,1,RANGER CREEK,Recreation and ceremony
+2010,247,Human,0.00404686,1,STEAK,Recreation and ceremony
+2010,255,Human,0.0202343,1,WINDY GAP,Recreation and ceremony
+2010,210,Lightning,0.0404686,1,MT. AIX WFU,Natural
+2010,216,Lightning,40.4686,50,BOULDER CREEK,Natural
+2010,163,Human,0.0404686,1,RED ROCK,Arson/incendiarism
+2010,232,Human,0.00404686,1,SOUP CAN,Recreation and ceremony
+2010,240,Human,0.00404686,1,QUARRY,Recreation and ceremony
+2009,270,Human,0.0404686,1,BELL FIRE,Recreation and ceremony
+2008,195,Human,4.04686,5,PRETTY BOY FIRE,Debris and open burning
+2008,196,Human,0.0404686,1,5280,Smoking
+2008,259,Human,0.0404686,1,KIBBELS,Recreation and ceremony
+2009,151,Human,5.7465412,7,EAST FORK,Missing data/not specified/undetermined
+2009,181,Human,0.1011715,1,TURKEY VULCHER,Missing data/not specified/undetermined
+2009,187,Human,0.00404686,1,MAIN LINE BRIDGE,Recreation and ceremony
+2009,190,Human,0.0404686,1,MONSTER,Recreation and ceremony
+2009,206,Human,0.1011715,1,JEEP WRANGLER,Missing data/not specified/undetermined
+2011,249,Human,0.0404686,1,HANSON,Recreation and ceremony
+2011,253,Human,0.0404686,1,OHANNA,Recreation and ceremony
+2011,276,Human,0.0404686,1,CORTRIGHT,Missing data/not specified/undetermined
+2011,237,Human,0.00404686,1,SECTION 21 LANDING,Recreation and ceremony
+2011,239,Human,0.0404686,1,BUCK CREEK,Recreation and ceremony
+2011,244,Human,0.00404686,1,70 ROAD HORSE CAMP,Recreation and ceremony
+2011,310,Human,0.0404686,1,7031,Recreation and ceremony
+2011,194,Human,0.00404686,1,RANGER CREEK,Recreation and ceremony
+2011,215,Human,0.00404686,1,GREENWATER LAKE,Recreation and ceremony
+2011,265,Human,0.00404686,1,KAMIAKAN BUTTE,Recreation and ceremony
+2011,134,Human,0.1011715,1,MCDANIEL LAKE,Arson/incendiarism
+2011,208,Human,0.00404686,1,DUDLEY,Other causes
+2011,221,Human,0.0202343,1,INDIAN,Recreation and ceremony
+2011,239,Human,0.00404686,1,LITTLE NACHES,Recreation and ceremony
+2011,247,Human,0.00404686,1,3 DAY,Recreation and ceremony
+2011,248,Human,0.00404686,1,BUMPING CROSSING,Recreation and ceremony
+2011,248,Human,0.00404686,1,LOST MEADOW,Recreation and ceremony
+2011,250,Human,0.00404686,1,GOLD HILLS HEMMINGWAY,Missing data/not specified/undetermined
+2011,219,Human,0.00404686,1,CARBON CAMPFIRE,Recreation and ceremony
+2011,246,Human,0.00404686,1,7810 CAMPFIRE,Recreation and ceremony
+2011,259,Human,0.00404686,1,7036,Recreation and ceremony
+2012,253,Lightning,0.0404686,1,BIRTHDAY,Natural
+2012,238,Human,0.0404686,1,PACKWOOD PARKING LOT,Arson/incendiarism
+2012,154,Human,0.0404686,1,SKATE CREEK,Recreation and ceremony
+2012,254,Lightning,0.0404686,1,MILE 6,Natural
+2012,239,Human,0.0404686,1,PACKWOOD LAKE,Recreation and ceremony
+2012,254,Lightning,0.0404686,1,CLEAR FORK,Natural
+2012,250,Human,0.0809372,1,SNIDER,Recreation and ceremony
+2012,224,Human,0.00404686,1,SUMMIT LAKE,Recreation and ceremony
+2012,168,Human,0.00404686,1,RCDR,Recreation and ceremony
+2012,239,Human,0.00404686,1,CHEROKEE,Debris and open burning
+2012,202,Human,0.00404686,1,CREEK,Missing data/not specified/undetermined
+2012,254,Lightning,0.00404686,1,BULLION BASIN,Natural
+2012,232,Human,0.00404686,1,BOMBAY,Recreation and ceremony
+2012,211,Human,0.00404686,1,28 MILE CREEK,Recreation and ceremony
+2012,185,Human,0.0404686,1,RV AT RANGER CREEK,Equipment and vehicle use
+2012,254,Lightning,0.202343,1,LONESOME,Natural
+2012,259,Lightning,0.0404686,1,AMERICAN RIDGE SOUTH,Natural
+2012,259,Lightning,0.0404686,1,AMERICAN RIDGE NORTH,Natural
+2012,258,Lightning,0.0404686,1,DEWEY LAKE,Natural
+2012,253,Lightning,0.0404686,1,FIFES PEAK,Natural
+2012,215,Human,0.1011715,1,CLEAR LAKE,Recreation and ceremony
+2012,267,Lightning,0.0404686,1,GREEN PASS,Natural
+2012,260,Lightning,4.04686,5,GOLD HILL,Natural
+2012,254,Lightning,0.202343,1,KITTEN CREEK,Natural
+2012,218,Human,0.00404686,1,SPRING 1 FIRE,Recreation and ceremony
+2012,259,Lightning,122.215172,151,KETTLE CREEK,Natural
+2012,277,Lightning,0.0404686,1,DEWEY 2,Natural
+2012,280,Human,0.0404686,1,DEER LAKE,Recreation and ceremony
+2012,245,Human,0.00404686,1,QUARTZ CREEK,Equipment and vehicle use
+2012,258,Lightning,2.832802,3,THREE LAKES FIRE,Natural
+2012,267,Human,0.202343,1,NISQUALLY FIRE,Missing data/not specified/undetermined
+2012,227,Human,0.00404686,1,ALPHA CAMPFIRE,Recreation and ceremony
+2012,251,Human,0.0809372,1,RAINIER DRIVE,Missing data/not specified/undetermined
+2012,267,Human,0.00404686,1,CARBON SPOT,Recreation and ceremony
+2013,201,Human,0.00404686,1,HUCKLEBERRY,Recreation and ceremony
+2013,254,Lightning,0.1011715,1,CROW,Natural
+2013,222,Lightning,0.0404686,1,TIMBERWOLF,Natural
+2013,160,Human,0.202343,1,CLEAR CREEK,Smoking
+2013,222,Lightning,0.0809372,1,CLOVER SPRINGS,Natural
+2013,207,Human,0.607029,1,GREENWATER #1,Recreation and ceremony
+2013,222,Lightning,0.0404686,1,BURNT,Natural
+2013,250,Lightning,0.00404686,1,BLUE SLIDE,Natural
+2013,233,Lightning,3.237488,4,COAL CREEK MTN,Natural
+2013,221,Human,0.0404686,1,BEAR CUB,Equipment and vehicle use
+2013,208,Human,0.00404686,1,LEECH LAKE,Recreation and ceremony
+2013,225,Lightning,0.0404686,1,ROAD 187,Natural
+2013,203,Human,0.00404686,1,DOG LAKE,Recreation and ceremony
+2013,222,Lightning,0.1011715,1,IRON MOUNTAIN,Natural
+2013,258,Human,0.0404686,1,ARMY CAMP,Recreation and ceremony
+2013,222,Lightning,0.1011715,1,MICROWAVE,Natural
+2013,216,Human,0.0404686,1,7305,Recreation and ceremony
+2013,229,Human,0.0404686,1,BARRACAH,Recreation and ceremony
+2013,254,Lightning,0.1214058,1,736,Natural
+2013,221,Lightning,0.0404686,1,REPEATER,Natural
+2013,257,Lightning,0.1214058,1,COPPER KING,Natural
+2013,208,Human,0.00404686,1,SLIDE FIRE,Recreation and ceremony
+2013,234,Lightning,0.0809372,1,636,Natural
+2013,222,Lightning,0.0404686,1,405,Natural
+2013,224,Lightning,0.3035145,1,RATTLE,Natural
+2013,213,Human,0.00404686,1,BUMPING CROSSING,Debris and open burning
+2013,230,Human,0.00404686,1,AIRSTRIP FIRE,Recreation and ceremony
+2013,222,Lightning,0.1011715,1,BUMPING,Natural
+2013,212,Lightning,0.0404686,1,GRAND PARK,Natural
+2013,221,Lightning,0.0404686,1,BACKBONE RIDGE,Natural
+2013,212,Lightning,0.0404686,1,BERKELEY PARK,Natural
+2013,221,Lightning,0.0404686,1,PANTHER CREEK,Natural
+2013,210,Human,0.0404686,1,RING FIRE,Recreation and ceremony
+2013,128,Human,0.7689034,1,SOUTH PRAIRIE CREEK,Missing data/not specified/undetermined
+2013,224,Human,0.1011715,1,CARBON 13,Missing data/not specified/undetermined
+2014,275,Human,0.0404686,1,SEED ORCHARD,Recreation and ceremony
+2014,145,Human,0.00404686,1,SOUP,Recreation and ceremony
+2014,191,Human,0.51799808,1,NORTH FORK,Recreation and ceremony
+2014,189,Human,0.3035145,1,BARTON CREEK,Recreation and ceremony
+2014,217,Lightning,0.00404686,1,LITTLE,Natural
+2014,198,Human,0.00404686,1,BEAR COVE,Misuse of fire by a minor
+2014,199,Human,0.0404686,1,THUNDER,Recreation and ceremony
+2014,253,Human,0.00809372,1,DEWEY LAKE,Recreation and ceremony
+2014,215,Lightning,0.00404686,1,CASH,Natural
+2014,247,Lightning,0.0404686,1,BLACKHAWK,Natural
+2014,250,Lightning,1.821087,2,GOAT ,Natural
+2014,162,Human,0.0404686,1,JOHNSON CREEK,Missing data/not specified/undetermined
+2014,236,Human,0.0404686,1,CANNON ROAD,Recreation and ceremony
+2014,214,Lightning,0.0404686,1,CHRISTINE,Natural
+2014,200,Human,0.0404686,1,CEDAR GROVE,Recreation and ceremony
+2014,237,Human,0.00404686,1,105 SPUR,Recreation and ceremony
+2014,7,Human,0.0404686,1,CAMPER,Arson/incendiarism
+2014,222,Human,0.0404686,1,DALLES LAKE ,Recreation and ceremony
+2014,217,Human,0.1011715,1,SILVER SPRINGS ,Recreation and ceremony
+2014,264,Human,0.0404686,1,SUNTOP,Recreation and ceremony
+2014,223,Lightning,25.090532,31,LOST RIDGE,Natural
+2014,224,Lightning,0.1011715,1,BLAKENSHIP,Natural
+2014,187,Human,0.00404686,1,JUNGLE CREEK,Recreation and ceremony
+2014,219,Lightning,0.404686,1,JUNGLE,Natural
+2014,224,Lightning,0.00404686,1,TWIN LAKE,Natural
+2014,180,Human,0.00404686,1,INDIAN CREEK,Recreation and ceremony
+2014,238,Lightning,0.404686,1,FIFES RIDGE,Natural
+2014,197,Lightning,0.00404686,1,LEACH LAKE,Natural
+2014,223,Lightning,0.809372,1,SHADOW LAKE FIRE,Natural
+2014,224,Lightning,0.0404686,1,SCARFACE WEST,Natural
+2014,258,Human,0.0404686,1,COWLITZ DIVIDE FIRE,Missing data/not specified/undetermined
+2014,225,Lightning,0.00404686,1,26 MILE LIGHTNING,Natural
+2014,187,Human,0.00404686,1,CRAIG,Missing data/not specified/undetermined
+2014,256,Human,0.00404686,1,TARGET RIDGE,Missing data/not specified/undetermined
+2015,150,Lightning,0.0404686,1,LAKE CREEK,Natural
+2015,181,Human,0.0404686,1,DOUGIE,Recreation and ceremony
+2015,275,Human,0.0404686,1,929,Recreation and ceremony
+2015,181,Lightning,0.0404686,1,RIDGETOP,Natural
+2015,216,Human,0.0404686,1,EVANS,Recreation and ceremony
+2015,265,Human,0.202343,1,MOWICH RIDGE,Missing data/not specified/undetermined
+2015,238,Lightning,0.3237488,1,MARLENE,Natural
+2015,180,Lightning,0.7284348,1,MULE,Natural
+2015,202,Human,0.0404686,1,EAST LAKE,Recreation and ceremony
+2015,221,Human,0.0404686,1,RANGER CREEK,Recreation and ceremony
+2015,180,Lightning,0.1011715,1,PANTHER RIDGE,Natural
+2015,122,Human,0.00404686,1,SPRING,Equipment and vehicle use
+2015,204,Human,0.0404686,1,DOE CREEK,Recreation and ceremony
+2015,129,Human,0.0404686,1,RUSSEL,Debris and open burning
+2015,181,Lightning,0.809372,1,RUSSELL 2,Natural
+2015,210,Human,0.0809372,1,LITTLE NACHES,Recreation and ceremony
+2015,223,Lightning,0.607029,1,NELSON BUTTE,Natural
+2015,169,Human,0.0404686,1,LIONS 2,Debris and open burning
+2016,213,Human,0.0404686,1,BORDER,Recreation and ceremony
+2016,133,Human,0.0404686,1,SKATE CREEK,Equipment and vehicle use
+2016,228,Human,0.0404686,1,JODY'S,Recreation and ceremony
+2016,234,Human,0.0404686,1,BILLY,Recreation and ceremony
+2016,241,Human,0.0404686,1,HUCKLEBERRY,Smoking
+2016,266,Human,0.0404686,1,BUTLER CREEK,Missing data/not specified/undetermined
+2016,221,Human,0.0404686,1,7015,Recreation and ceremony
+2016,171,Human,0.00404686,1,CRANE PARK,Recreation and ceremony
+2016,164,Human,0.00404686,1,BETHEL,Recreation and ceremony
+2016,169,Human,0.00404686,1,SPILLWAY,Recreation and ceremony
+2016,178,Human,0.00404686,1,ROCK,Recreation and ceremony
+2016,186,Human,0.00404686,1,PENNINSULA 1,Recreation and ceremony
+2016,186,Human,0.00404686,1,WILLOW SPRINGS,Missing data/not specified/undetermined
+2016,257,Human,0.0404686,1,WILDCAT,Arson/incendiarism
+2016,216,Human,0.00404686,1,SALMON COVE,Missing data/not specified/undetermined
+2016,226,Human,0.00404686,1,OUTFITTERS,Missing data/not specified/undetermined
+2016,235,Human,0.00404686,1,SPRING,Recreation and ceremony
+2016,257,Human,0.00404686,1,DEAD MANS,Missing data/not specified/undetermined
+2016,257,Human,0.00404686,1,SILVER BEACH,Missing data/not specified/undetermined
+2016,272,Human,0.11735894,1,BUCK LAKE,Missing data/not specified/undetermined
+2016,232,Human,0.00404686,1,INDIAN CREEK,Recreation and ceremony
+2017,216,Human,0.0404686,1,CORA LAKE,Fireworks
+2017,221,Human,0.0404686,1,BERRY CREEK,Recreation and ceremony
+2017,230,Human,0.0404686,1,AYANCE,Missing data/not specified/undetermined
+2017,224,Lightning,0.1011715,1,BACKBONE,Natural
+2017,252,Human,0.0404686,1,CORA LAKE 2,Recreation and ceremony
+2017,190,Human,0.0404686,1,FIREBALL,Fireworks
+2017,209,Human,0.00404686,1,FLIPPER,Recreation and ceremony
+2017,245,Human,0.0404686,1,ECHO LAKE,Recreation and ceremony
+2017,247,Human,0.1011715,1,28 CREEK,Recreation and ceremony
+2017,228,Human,0.0404686,1,GOAT CREEK,Recreation and ceremony
+2017,183,Human,0.00404686,1,WEST POINT,Recreation and ceremony
+2017,176,Human,0.00404686,1,SPRING CREEK,Recreation and ceremony
+2017,206,Human,0.00404686,1,MILE TEN BUMPING,Smoking
+2017,212,Human,0.00404686,1,CLEAR LAKE,Recreation and ceremony
+2017,215,Human,0.00404686,1,DEEP CREEK,Recreation and ceremony
+2017,222,Lightning,0.1011715,1,AMERICAN,Natural
+2017,222,Human,0.2832802,1,RATTLESNAKE SPRINGS,Missing data/not specified/undetermined
+2017,222,Lightning,0.202343,1,BIG BASIN,Natural
+2017,223,Lightning,0.809372,1,CROW CREEK,Natural
+2017,223,Lightning,0.809372,1,PLEASANT VALLEY,Natural
+2017,256,Human,0.00404686,1,BLAKENSHIP,Recreation and ceremony
+2017,223,Lightning,0.809372,1,SURVEY CREEK,Natural
+2017,223,Lightning,0.809372,1,UNION CREEK,Natural
+2017,223,Lightning,0.809372,1,SCAB,Natural
+2017,223,Lightning,0.809372,1,LODGE POLE,Natural
+2017,223,Lightning,0.404686,1,KETTLE CREEK,Natural
+2017,224,Lightning,0.1011715,1,GOAT PEAK,Natural
+2016,171,Human,0.0404686,1,IMON FIRE,Recreation and ceremony
+2016,203,Lightning,0.0404686,1,CLOVER FIRE,Natural
+2016,152,Human,0.0404686,1,FS 47,Recreation and ceremony
+2016,211,Human,0.00809372,1,MILEPOST 32,Missing data/not specified/undetermined
+2017,145,Lightning,0.0404686,1,CREEK,Natural
+2017,247,Human,429.371846,530,SAWMILL CREEK,Missing data/not specified/undetermined
+2017,233,Human,0.0404686,1,STEPHANIE LANE,Equipment and vehicle use
+2017,245,Human,0.00404686,1,SKATE CREEK,Recreation and ceremony
+2017,248,Human,0.1618744,1,CARBON RIVER,Recreation and ceremony
+2017,189,Human,0.00404686,1,7710 RD,Missing data/not specified/undetermined
+2017,247,Human,0.0404686,1,SKATE CREEK ROAD,Missing data/not specified/undetermined
+2017,257,Human,0.0404686,1,MP 135,Missing data/not specified/undetermined
+2017,246,Human,0.00404686,1,WINDY GAP,Missing data/not specified/undetermined
+2017,218,Human,2.02343,2,EAST FORK #2,Missing data/not specified/undetermined
+2017,219,Human,4.0063914,5,BURNT MOUNTAIN,Missing data/not specified/undetermined
+2017,223,Human,21066.334416,26008,NORSE PEAK,Missing data/not specified/undetermined
+2017,222,Lightning,1559.255158,1925,AMERICAN,Natural
+2018,190,Human,0.0404686,1,PACKWOOD LAKE,Recreation and ceremony
+2018,189,Human,0.0404686,1,TATOOSH RIDGE,Recreation and ceremony
+2018,152,Human,0.0404686,1,MUDDY,Recreation and ceremony
+2018,205,Human,0.1214058,1,5280,Missing data/not specified/undetermined
+2018,197,Human,0.0404686,1,PURCELL CREEK,Recreation and ceremony
+2018,251,Human,0.0404686,1,LITTLE T,Recreation and ceremony
+2018,242,Human,0.0404686,1,BIG CREEK,Missing data/not specified/undetermined
+2018,241,Human,0.0404686,1,CORA,Recreation and ceremony
+2018,252,Human,0.0404686,1,COAL CREEK,Recreation and ceremony
+2018,287,Human,0.0404686,1,023,Smoking
+2018,268,Human,0.0404686,1,OHANAPECOSH,Recreation and ceremony
+2018,220,Lightning,53.823238,66,CLEAR FORK,Natural
+2018,212,Human,0.0404686,1,NISQUALLY,Recreation and ceremony
+2018,209,Lightning,0.0404686,1,SHELLROCK,Natural
+2018,209,Lightning,0.1011715,1,HELL LAKE,Natural
+2018,224,Lightning,0.0404686,1,SAND CREEK,Natural
+2018,234,Human,0.0809372,1,AMERICAN RIDGE,Recreation and ceremony
+2018,209,Lightning,0.1011715,1,LEECH,Natural
+2018,285,Lightning,0.0404686,1,DEVIL CREEK,Natural
+2018,292,Human,0.0404686,1,CASH PRAIRIE,Missing data/not specified/undetermined
+2018,224,Lightning,0.809372,1,BOOTJACK,Natural
+2018,271,Human,0.0404686,1,JUNGLE CREEK,Recreation and ceremony
+2018,216,Lightning,0.1618744,1,MINERS RIDGE,Natural
+2018,210,Human,0.0404686,1,SAND RIDGE,Recreation and ceremony
+2018,210,Human,0.0404686,1,THREE DAY,Recreation and ceremony
+2018,211,Lightning,2196.635608,2712,MIRIAM,Natural
+2018,188,Lightning,0.404686,1,TIETON,Natural
+2018,274,Human,0.00404686,1,7160,Power generation/transmission/distribution
+2018,254,Human,0.0404686,1,HUCKLEBERRY TRAIL,Recreation and ceremony
+2018,216,Human,0.0404686,1,ORCHARD,Recreation and ceremony
+2018,181,Human,0.01618744,1,WHITE RIVER,Missing data/not specified/undetermined
+2018,207,Human,0.1011715,1,DALLES LAKE,Missing data/not specified/undetermined
+2018,180,Human,0.00404686,1,HUCKLEBERRY CREEK,Missing data/not specified/undetermined
+2018,233,Human,0.0404686,1,WHISTLE CREEK,Missing data/not specified/undetermined
+2018,205,Lightning,169.96812,210,WRONG CREEK,Natural
+2018,250,Human,0.00404686,1,GREENWATER LAKES,Recreation and ceremony
+2018,211,Human,0.00404686,1,70 ROAD,Recreation and ceremony
+2018,189,Human,0.0404686,1,NORTH FORK,Recreation and ceremony
+2018,203,Human,0.0404686,1,FISH HAWK,Recreation and ceremony
+2018,172,Lightning,0.0607029,1,WILDCAT RIDGE,Natural
+2018,189,Human,0.0404686,1,THUNDER CREEK,Missing data/not specified/undetermined
+2018,194,Human,0.0809372,1,BEAR COVE,Missing data/not specified/undetermined
+2018,173,Lightning,0.0404686,1,DEEP MINER,Natural
+2018,187,Human,0.0404686,1,MUDDY RIVER FIRE,Missing data/not specified/undetermined
+2018,209,Lightning,0.0404686,1,SPOOKY TREE FIRE,Natural
+2018,209,Lightning,8.09372,10,FAN LAKE FIRE,Natural
+2018,221,Lightning,2.02343,2,COWLITZ PEAK FIRE,Natural
+2018,152,Human,0.0404686,1,PIT,Debris and open burning
+2018,198,Human,0.0404686,1,LITTLE CARBON,Missing data/not specified/undetermined
+2018,227,Human,0.0404686,1,NACHES PASS,Missing data/not specified/undetermined
+2018,234,Human,4.451546,5,EAST FORK TRIANGLE,Missing data/not specified/undetermined
+2017,223,Human,70.82005,87,UNION CREEK,Missing data/not specified/undetermined
+2019,247,Human,0.0404686,1,BURNS CREEK,Missing data/not specified/undetermined
+2019,222,Lightning,0.0404686,1,GOOSE PRAIRIE,Natural
+2019,245,Human,0.0404686,1,LOG,Recreation and ceremony
+2019,221,Lightning,0.0404686,1,SCATTER CREEK,Natural
+2019,251,Lightning,0.0404686,1,FLAT IRON,Natural
+2019,169,Human,0.6474976,1,SODA SPRINGS- DNR PCS ASSIST,Debris and open burning
+2019,213,Human,0.1011715,1,48 ROAD,Arson/incendiarism
+2019,221,Lightning,0.0404686,1,HOGBACK,Natural
+2019,251,Lightning,0.0404686,1,WHITE STUMP,Natural
+2019,222,Human,0.0404686,1,44 ROAD,Recreation and ceremony
+2019,223,Human,0.0404686,1,COPPER CREEK,Recreation and ceremony
+2019,240,Human,0.0404686,1,750,Recreation and ceremony
+2019,201,Human,0.0404686,1,BUMPING RIVER,Recreation and ceremony
+2019,240,Human,0.0404686,1,751,Recreation and ceremony
+2019,225,Lightning,0.0404686,1,THUNDER CREEK,Natural
+2019,229,Human,0.0404686,1,NORTH PENNINSULA,Recreation and ceremony
+2019,234,Human,0.0404686,1,DOG LAKE,Recreation and ceremony
+2019,237,Human,0.0404686,1,CORTRIGHT,Recreation and ceremony
+2019,181,Human,0.0404686,1,101 SPUR ROAD,Recreation and ceremony
+2019,251,Lightning,0.0404686,1,THREE CREEK,Natural
+2019,155,Human,0.0404686,1,PACKWOOD,Missing data/not specified/undetermined
+2019,192,Human,0.0404686,1,PENNINSULA,Recreation and ceremony
+2019,217,Human,0.0404686,1,SKATE CREEK,Recreation and ceremony
+2019,169,Human,0.4451546,1,SODA SPRINGS,Debris and open burning
+2019,125,Human,0.00404686,1,CEDAR STUMP ,Missing data/not specified/undetermined
+2019,246,Human,0.0404686,1,SNOW GOOSE,Missing data/not specified/undetermined
+2020,209,Human,0.1214058,1,NISQUALLY SANDBAR,Missing data/not specified/undetermined
+2020,194,Human,0.1011715,1,CANNON,Debris and open burning
+2020,153,Human,0.0404686,1,TAHOMA CAMP,Recreation and ceremony
+2020,245,Human,0.0404686,1,SAWMILL RIDGE,Missing data/not specified/undetermined
+2020,126,Human,0.0404686,1,PLUM TWO,Recreation and ceremony
+2020,227,Human,0.0404686,1,WILKESON CREEK,Missing data/not specified/undetermined
+2020,191,Human,0.0404686,1,WAGON,Missing data/not specified/undetermined
+2020,126,Human,0.0404686,1,EVANS,Recreation and ceremony
+2020,230,Lightning,0.0404686,1,YEW,Natural
+2020,250,Human,0.0404686,1,CORRAL,Recreation and ceremony
+2020,243,Human,0.0404686,1,WEST POINT,Recreation and ceremony
+2020,209,Human,0.0404686,1,NILE LOOP,Missing data/not specified/undetermined
+2020,258,Human,228.242904,282,COLD CREEK,Arson/incendiarism
+2020,205,Human,0.0404686,1,HELL CREEK,Recreation and ceremony
+2020,211,Human,0.0404686,1,BUMPING LAKE LOWER,Recreation and ceremony
+2020,249,Human,0.0404686,1,JUG,Recreation and ceremony
+2020,229,Human,0.0404686,1,TOWER 15,Missing data/not specified/undetermined
+2020,231,Lightning,0.0404686,1,MORSE,Natural
+2020,249,Human,0.0404686,1,UPPER LAKE,Recreation and ceremony
+2020,223,Human,0.0404686,1,TATOOSH SOUTH,Smoking
+2020,175,Human,0.0404686,1,HWY 123,Recreation and ceremony
+2020,231,Lightning,2.428116,3,CARLTON,Natural
+2020,188,Human,0.0404686,1,LWW,Recreation and ceremony
+2020,233,Lightning,0.0404686,1,LONESOME,Natural
+2020,215,Lightning,0.0404686,1,SCARFACE,Natural
+2020,181,Human,0.0404686,1,48 ROCK,Recreation and ceremony
+2020,230,Human,0.0404686,1,ROCK CREEK,Recreation and ceremony
+2020,207,Human,0.0404686,1,LOOKOUT,Equipment and vehicle use
+2020,208,Human,0.0404686,1,BEAR PRAIRIE,Recreation and ceremony
+2020,254,Human,0.0404686,1,BERTHA MAY,Recreation and ceremony

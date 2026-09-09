@@ -1,0 +1,16 @@
+LandisData                	"Climate Config"				
+		
+ClimateTimeSeries		Daily_RandomYears
+ClimateFile			/mora/extensions/hist_prism_with_GRIDMET_wind_MORA_05262026.csv
+
+SpinUpClimateTimeSeries		Daily_RandomYears
+SpinUpClimateFile		/mora/extensions/hist_prism_with_GRIDMET_wind_MORA_05262026.csv
+
+GenerateClimateOutputFiles      no
+UsingFireClimate		yes
+FineFuelMoistureCode		85
+DuffMoistureCode		6
+DroughtCode			15
+FirstDayFire			1
+LastDayFire			360
+AtmosphericPressure		90

@@ -1,0 +1,9 @@
+LandisData   Extension
+
+Name         "EMBER"
+Version      1.0
+Type         disturbance:fire
+Assembly     Landis.Extension.EMBER-v1
+Class        Landis.Extension.EMBER.PlugIn
+Description  "Ecosystem-coupled Moisture, Behavior, Effects and Regimes: mechanistic climate-sensitive fire"
+CoreVersion  8.0

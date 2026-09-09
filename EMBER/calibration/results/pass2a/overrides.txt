@@ -1,0 +1,17 @@
+>> Pass 2a (2026-09-08): keep the pass-1 ignition fixes, pull everyday spread back toward the
+>> baseline, keep the extreme-day capacity. No suppression (comparable with the SCF run).
+UseIgnitionSustain          no
+IgnitionRequiresBurnPeriod  no
+WindAdjustmentSheltered     0.20      << pass 1 used 0.30, baseline 0.15
+WindGustFactor              1.0
+BurnPeriodMinHours          1
+BurnPeriodMaxHours          16
+BurnPeriodFWILow            12        << ordinary summer days (FWI 8-12) creep but do not spread
+BurnPeriodFWIHigh           40
+RainoutPrecipitation        0.2
+ExtinctionIntensity         25
+FoliarMoistureDroughtEffect 0.35
+fuelbed: ShortNeedle PackingRatio 0.025
+fuelbed: LongNeedle PackingRatio 0.030
+fuelbed: Broadleaf PackingRatio 0.018
+FuelMapFrequency            10

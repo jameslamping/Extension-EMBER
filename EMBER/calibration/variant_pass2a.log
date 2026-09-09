@@ -1,0 +1,84 @@
+== pass2a: 40 years, seed 3333, overrides:
+>> Pass 2a (2026-09-08): keep the pass-1 ignition fixes, pull everyday spread back toward the
+>> baseline, keep the extreme-day capacity. No suppression (comparable with the SCF run).
+UseIgnitionSustain          no
+IgnitionRequiresBurnPeriod  no
+WindAdjustmentSheltered     0.20      << pass 1 used 0.30, baseline 0.15
+WindGustFactor              1.0
+BurnPeriodMinHours          1
+BurnPeriodMaxHours          16
+BurnPeriodFWILow            12        << ordinary summer days (FWI 8-12) creep but do not spread
+BurnPeriodFWIHigh           40
+RainoutPrecipitation        0.2
+ExtinctionIntensity         25
+FoliarMoistureDroughtEffect 0.35
+fuelbed: ShortNeedle PackingRatio 0.025
+fuelbed: LongNeedle PackingRatio 0.030
+fuelbed: Broadleaf PackingRatio 0.018
+FuelMapFrequency            10
+   EMBER year 38: 0 fires, 0 cells burned (0.0 ha), largest 0.0 ha, mean FWI 4.1.
+   EMBER year 39: 0 fires, 0 cells burned (0.0 ha), largest 0.0 ha, mean FWI 2.0.
+   EMBER year 40: 0 fires, 0 cells burned (0.0 ha), largest 0.0 ha, mean FWI 2.4.
+Warning message:
+package 'ggplot2' was built under R version 4.4.3 
+
+== pass2a vs SCF ==
+                   statistic       scf     ember  ratio
+                      <char>     <num>     <num>  <num>
+ 1:                    years 8.000e+01 4.000e+01 0.5000
+ 2:             active_cells 9.346e+03 9.346e+03 1.0000
+ 3:      cells_per_year_mean 7.821e+01 4.252e+01 0.5440
+ 4:    cells_per_year_median 0.000e+00 0.000e+00    NaN
+ 5:       cells_per_year_p90 5.980e+01 5.100e+00 0.0853
+ 6:       cells_per_year_max 1.328e+03 9.520e+02 0.7170
+ 7: fraction_years_with_fire 3.875e-01 2.000e-01 0.5160
+ 8:   annual_fraction_burned 8.369e-03 4.550e-03 0.5440
+ 9:           rotation_years 1.195e+02 2.198e+02 1.8400
+10:           fires_per_year 4.875e-01 2.250e-01 0.4620
+11:         fire_size_median 1.200e+01 5.000e+00 0.4170
+12:            fire_size_p90 6.214e+02 6.624e+02 1.0700
+13:            fire_size_max 1.283e+03 9.520e+02 0.7420
+14:      fraction_fires_gt10 5.128e-01 3.333e-01 0.6500
+15:     fraction_fires_gt100 1.795e-01 3.333e-01 1.8600
+
+== pass2a vs observed record (FPA-FOD / MTBS; counts scaled by area share 0.019 ) ==
+                           statistic  observed     ember   ratio
+                              <char>     <num>     <num>   <num>
+ 1:                   fires_per_year 6.655e-01   0.22500   0.338
+ 2:         lightning_fires_per_year 2.459e-01   0.07500   0.305
+ 3:                 fire_size_median 1.000e+00   5.00000   5.000
+ 4:                    fire_size_p90 1.000e+00 662.40000 662.000
+ 5:              fraction_fires_gt10 2.956e-02   0.33330  11.300
+ 6:             fraction_fires_gt100 1.675e-02   0.33330  19.900
+ 7:       annual_fraction_burned_fpa 2.554e-03   0.00455   1.780
+ 8:      annual_fraction_burned_mtbs 3.640e-03   0.00455   1.250
+ 9:              ignition_doy_median 2.210e+02 215.00000   0.973
+10:                 ignition_doy_p10 1.760e+02 202.00000   1.150
+11:                 ignition_doy_p90 2.650e+02 247.00000   0.932
+12: fraction_area_high_severity_mtbs 4.188e-01   0.00000   0.000
+
+== behavior diagnostics ==
+                       statistic     value
+                          <char>     <num>
+ 1:   ignition_attempts_per_year 7.750e-01
+ 2:            fires_per_attempt 2.903e-01
+ 3:           days_active_median 4.000e+00
+ 4:              days_active_p90 2.500e+01
+ 5:              days_active_max 3.700e+01
+ 6:        mean_ros_median_m_min 9.000e-01
+ 7:            max_ros_p90_m_min 1.052e+01
+ 8:   mean_intensity_median_kW_m 9.300e+01
+ 9:       max_intensity_p90_kW_m 7.327e+03
+10: fraction_cells_passive_crown 4.282e-02
+11:  fraction_cells_active_crown 0.000e+00
+12:        canopy_mortality_mean 7.203e-02
+13:    cells_per_fire_day_median 1.200e+01
+14:       cells_per_fire_day_p90 5.170e+01
+15:            burn_hours_median 7.300e+00
+16:          ignition_fwi_median 1.760e+01
+17:                  end_weather 1.000e+00
+18:             end_fuel_limited 0.000e+00
+19:               end_season_end 0.000e+00
+
+wrote /Users/jlamping/Documents/Reenvisioned_LANDIS_Fire/EMBER/calibration/runs/pass2a 
+exit=0

@@ -1,0 +1,38 @@
+>> Pass 6 (2026-09-09): pass 5 with initial attack and containment strengthened once more
+>> (IA intercept 3.5: ~92 % at 10 000 kW/m, ~62 % at 30 000; containment intercept 2.5:
+>> ~73 %/day for a 10-ha fire at 5 m/min, ~14 %/day for a 500-ha fire at 17 m/min) and the
+>> lightning intercept trimmed to -15.0 (pass 5 gave 1.45x the record). Same four seeds.
+UseIgnitionSustain          no
+IgnitionRequiresBurnPeriod  no
+IgnitionAlwaysBurns         yes
+WindAdjustmentSheltered     0.20
+WindGustFactor              1.0
+BurnPeriodMinHours          1
+BurnPeriodMaxHours          16
+BurnPeriodFWILow            12
+BurnPeriodFWIHigh           40
+RainoutPrecipitation        0.2
+ExtinctionIntensity         25
+FoliarMoistureDroughtEffect 0.35
+CrownInitiation             Cruz2004
+CoarseFuelFlamingFraction   0.3
+fuelbed: ShortNeedle PackingRatio 0.025
+fuelbed: LongNeedle PackingRatio 0.030
+fuelbed: Broadleaf PackingRatio 0.018
+UseSuppression              yes
+InitialAttackB0             3.5
+InitialAttackB1             -0.5
+InitialAttackB2             -0.0001
+InitialAttackB3             0.0
+InitialAttackB4             -0.1
+ContainmentB0               2.5
+ContainmentB1               -0.3
+ContainmentB2               -0.1
+ContainmentB3               0.0
+ContainmentB4               -0.1
+ContainmentB5               -0.05
+MaxSuppressedFires          10
+FuelMapFrequency            10
+FirstIgnitionDay            120
+LastIgnitionDay             305
+LightningIgnitionsB0        -15.0

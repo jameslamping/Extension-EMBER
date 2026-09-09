@@ -1,0 +1,16 @@
+>> Parameter pass 1 (2026-09-08): open the ignition bottleneck and let fires move.
+>> Rationale in calibration/README.md.
+UseIgnitionSustain          no        << SCF coefficients count fires, not attempts
+IgnitionRequiresBurnPeriod  no        << an ignition burns its cell even on a no-spread day
+WindAdjustmentSheltered     0.30      << dense PNW canopies still pass wind; daily mean GRIDMET wind underestimates afternoon speeds
+WindGustFactor              1.0
+BurnPeriodMaxHours          16
+BurnPeriodFWIHigh           30
+ExtinctionIntensity         15
+FoliarMoistureDroughtEffect 0.35
+fuelbed: ShortNeedle PackingRatio 0.020
+fuelbed: LongNeedle PackingRatio 0.025
+fuelbed: Broadleaf PackingRatio 0.015
+FuelMapFrequency            10
+WriteFuelMoistureMaps       no
+WriteCalibrationDiagnostics no

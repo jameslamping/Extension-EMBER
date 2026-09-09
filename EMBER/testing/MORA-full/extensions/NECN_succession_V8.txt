@@ -1,0 +1,124 @@
+LandisData	"NECN Succession"
+
+Timestep  1
+
+SeedingAlgorithm        WardSeedDispersal << section 4.5.1 Seeding of the LANDIS-II Conceptual Model Description.
+
+InitialCommunitiesCSV      /mora/extensions/PNW_Parks_IC_12032025.csv
+InitialCommunitiesMap   /mora/input_maps/MORA_ICmap_07072025.tif
+ClimateConfigFile 	extensions/climate-generator-baseline.txt	
+
+
+SoilDepthMapName			    /mora/input_maps/MORA_depth_07072025.tif
+SoilDrainMapName			    /mora/input_maps/MORA_soildrain_07072025.tif
+SoilMoistureMapName                     /mora/input_maps/MORA_soilmoist_09052025.tif
+SoilBaseFlowMapName			    /mora/input_maps/MORA_soilbaseflow_11302025.tif
+SoilStormFlowMapName			/mora/input_maps/MORA_soilstormflow_07072025.tif
+SoilFieldCapacityMapName		/mora/input_maps/MORA_FC_07072025.tif
+SoilWiltingPointMapName			/mora/input_maps/MORA_WP_07072025.tif
+SoilPercentSandMapName			/mora/input_maps/MORA_sand_07072025.tif
+SoilPercentClayMapName			/mora/input_maps/MORA_clay_07072025.tif
+InitialSOM1CsurfMapName			/mora/input_maps/MORA_SOM1surf_07072025.tif
+InitialSOM1NsurfMapName			/mora/input_maps/MORA_SOM1surfn_07072025.tif
+InitialSOM1CsoilMapName			/mora/input_maps/MORA_SOM1soil_07072025.tif
+InitialSOM1NsoilMapName			/mora/input_maps/MORA_SOM1soiln_07072025.tif
+InitialSOM2CMapName			    /mora/input_maps/MORA_SOM2_07072025.tif
+InitialSOM2NMapName			    /mora/input_maps/MORA_SOM2n_07072025.tif
+InitialSOM3CMapName			    /mora/input_maps/MORA_SOM3_07072025.tif
+InitialSOM3NMapName			    /mora/input_maps/MORA_SOM3n_07072025.tif
+InitialDeadWoodSurfaceMapName	/mora/input_maps/MORA_deadwood_07072025.tif
+InitialDeadCoarseRootsMapName	/mora/input_maps/MORA_deadcourseroots_09152025.tif
+SlopeMapName                    /mora/input_maps/MORA_slope_07072025.tif
+AspectMapName                   /mora/input_maps/MORA_aspect_07072025.tif
+
+CalibrateMode 		            no
+SmokeModelOutputs  	            no
+WaterDecayFunction  	        Ratio 
+
+ProbabilityEstablishAdjust 	    0.02
+InitialMineralN			        3.0
+InitialFineFuels		        0.99
+AtmosphericNSlope		        0.004 << to get avg N of 0.063 from NADP: https://nadp.slh.wisc.edu/maps-data/ntn-interactive-map/
+AtmosphericNIntercept		    0.0001
+Latitude			            47.8
+DenitrificationRate		        0.0014 << 0.55 from https://www.jstor.org/stable/pdf/3659033.pdf
+DecayRateSurf			        0.85 << Serra Diez and Maxwell
+DecayRateSOM1			        0.9
+DecayRateSOM2			        0.007
+DecayRateSOM3			        0.0001
+
+>>ANPPMapName NECN/AGNPP-{timestep}.img
+>>ANPPMapFrequency 10
+>>ANEEMapName NECN\AGNEE-{timestep}.img
+>>ANEEMapFrequency 10
+>>SoilCarbonMapName NECN\SoilC-{timestep}.img
+>>SoilCarbonMapFrequency 10
+>>SoilNitrogenMapName NECN\SoilN-{timestep}.img
+>>SoilNitrogenMapFrequency 10
+>>TotalCMapName NECN\TotalC-{timestep}.img
+>>TotalCMapFrequency 10
+		
+SpeciesParameters		extensions/NECN_sp_06032026.csv
+			
+>> ------------------------------------------------------------------------------
+>> Fire Reduction Parameters — 10 severity classes for SCF/SCRPPLE
+>> ------------------------------------------------------------------------------
+>> Columns are fractions (0.0–1.0) of each pool volatilized by a fire of a given
+>> severity class (NECN v8.2 §2.34). The remainder of cohort wood/leaf killed by
+>> fire is deposited into the dead-wood and dead-leaf pools, not lost.
+>>
+>> Severity scale used here (consistent with SCF/SCRPPLE 1–10):
+>>   1–2  smoldering / very low surface fire
+>>   3–4  low surface fire
+>>   5–6  moderate surface fire, occasional passive crown
+>>   7–8  active crown fire, high overstory mortality
+>>   9–10 extreme stand-replacing fire with deep duff consumption
+>>
+>> Calibrated for PNW maritime/montane conifer forests (MORA, NOCA, OLYM).
+>> Key ecological constraints encoded:
+>>   - Fine litter consumes readily even at low severity (Ottmar 2014).
+>>   - Coarse downed wood retains moisture; complete consumption is rare even
+>>     in high-severity fire (Brown et al. 1985; Hyde et al. 2011).
+>>   - Live cohort wood (boles) is largely converted to snags rather than
+>>     volatilized; capped at 0.45 even at severity 10 (Reinhardt et al. 1997).
+>>   - PNW O-horizons are moist and rarely fully consumed; capped at 0.85
+>>     (Ottmar 2014; Prichard et al. 2017).
+>>
+>> General references:
+>>   Brown, J.K., M.A. Marsden, K.C. Ryan, E.D. Reinhardt. 1985. Predicting
+>>     duff and woody fuel consumed by prescribed fire in the Northern Rocky
+>>     Mountains. USDA For. Serv. Res. Pap. INT-337.
+>>   Reinhardt, E.D., R.E. Keane, J.K. Brown. 1997. First Order Fire Effects
+>>     Model: FOFEM 4.0, User's Guide. USDA For. Serv. GTR INT-344.
+>>   Hyde, J.C., A.M.S. Smith, R.D. Ottmar, E.C. Alvarado, P. Morgan. 2011.
+>>     The combustion of sound and rotten coarse woody debris: a review.
+>>     International Journal of Wildland Fire 20:163–174.
+>>   Ottmar, R.D. 2014. Wildland fire emissions, carbon, and climate: Modeling
+>>     fuel consumption. Forest Ecology and Management 317:41–50.
+>>   Prichard, S.J., E.M. Stevens-Rumann, P.F. Hessburg. 2017. Tamm Review:
+>>     Shifting global fire regimes — lessons from reburns and research
+>>     needs. Forest Ecology and Management 396:217–233.
+>> ------------------------------------------------------------------------------
+
+FireReductionParameters
+>>	Severity	WoodLitter	Litter	CohortWood	CohortFoliar	SOM
+>>	Fire		Reductions------------------------------------------------->
+	1		0.02		0.20	0.01		0.05		0.02
+	2		0.05		0.40	0.03		0.12		0.05
+	3		0.10		0.55	0.05		0.22		0.10
+	4		0.18		0.70	0.08		0.40		0.18
+	5		0.28		0.82	0.12		0.60		0.28
+	6		0.40		0.90	0.17		0.78		0.40
+	7		0.55		0.95	0.23		0.90		0.52
+	8		0.70		0.98	0.30		0.96		0.65
+	9		0.82		1.00	0.37		1.00		0.75
+	10		0.92		1.00	0.45		1.00		0.85	
+
+HarvestReductionParameters
+>>	Name		     	 	  WoodLitter	Litter	SOM		CohortWood	CohortLeaf
+>>			          	  	  Reduct		Reduct	Reduction	Removal		Removal
+>>	AK_YG_clearcut	    		0.5		 0.15	  0.2		 0.8		0.15
+>>	AK_OG_clearcut	    		0.5		 0.15	  0.2		 0.8		0.15
+>>	AK_precommercial_thinning	0.8		 0.14	  0.1		0.85		0.25
+>>	AK_commercial_thinning  	0.8		 0.14	  0.1		0.85		0.25
+>>	AK_cointent				  	0.8		 0.14	  0.1		0.85		0.25

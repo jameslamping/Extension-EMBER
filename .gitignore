@@ -1,0 +1,24 @@
+# --- build output ---
+**/bin/
+**/obj/
+EMBER/docker/registration.txt
+
+# --- pinned upstream clones (third-party code, ~1.3 GB) ---
+# These are exact-commit clones of LANDIS-II Foundation repositories kept for study.
+# See README.md for what they are and where to get them.
+/source/
+
+# --- LANDIS-II run outputs (tens of GB; regenerate by running the scenarios) ---
+EMBER/calibration/runs/
+EMBER/testing/*/NECN/
+EMBER/testing/*/Metadata/
+EMBER/testing/*/ember/
+EMBER/testing/*/community-input-file-*.csv
+EMBER/testing/*/output-community-*.tif
+EMBER/testing/*/NECN-*.csv
+EMBER/testing/*/ember-*.csv
+EMBER/testing/*/Landis-*.txt
+EMBER/testing/*/*.log
+
+# --- macOS ---
+.DS_Store

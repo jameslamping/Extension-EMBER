@@ -1,0 +1,19 @@
+LandisData  "Scenario"
+
+Duration          80
+
+Species           extensions/species_11302025.txt
+Ecoregions        extensions/Ecoregions.txt
+EcoregionsMap     /mora/input_maps/MORA_ClimateRegions_05132026.tif
+CellLength        90
+
+>> Succession Extension    Initialization File
+   "NECN Succession"       extensions/NECN_succession_V8.txt
+
+>> Disturbance Extensions  Initialization File
+   "EMBER"                 extensions/EMBER.txt
+
+>> Other Extensions        Initialization File
+   "Output Biomass Community"  extensions/biomass_community.txt
+
+>> RandomNumberSeed  3333   << the SCF reference run used a random seed; leave commented for an independent replicate

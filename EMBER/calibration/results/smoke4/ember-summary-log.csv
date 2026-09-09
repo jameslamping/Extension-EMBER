@@ -1,0 +1,4 @@
+SimulationYear,CalendarYear,IgnitionAttempts,Fires,LightningFires,AccidentalFires,CellsBurned,AreaBurnedHa,LargestFireHa,FractionHighSeverity,FractionCrownFire,FirstFireDay,LastFireDay,BiomassKilledMg,ConsumptionMg,PM25Mg,CO2Mg,FiresContained,MeanFWI,MaxFWI,
+1, 1992, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2.4, 18.3, 
+2, 1992, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1.7, 25.6, 
+3, 1992, 1, 1, 0, 1, 773, 626.1, 626.1, 0.65, 0.91, 227, 227, 93980, 37143, 741.2, 56591, 1, 2.4, 30.5, 

@@ -1,0 +1,4 @@
+Name,SAV1h,SAV10h,SAV100h,SAVHerb,SAVWoody,HeatContent,MoistureOfExtinction,PackingRatio,LitterFraction1h,DuffBulkDensity
+ShortNeedle,2000,109,30,1800,1500,18608,25,0.025,0.65,110
+LongNeedle,1800,109,30,1800,1500,18608,35,0.030,0.75,90
+Broadleaf,2000,109,30,1800,1500,18608,25,0.018,0.80,80
