@@ -71,6 +71,13 @@ image, registering the extension without needing an SDK in the image.
   communities, soils, climate, ignition density maps) by path; the parameter files that
   configure EMBER are included, the landscape rasters are not.
 
+## License
+
+Apache License 2.0, the license used by the LANDIS-II extensions. See [LICENSE](LICENSE).
+
+The support libraries in `EMBER/src/lib/` are LANDIS-II Foundation binaries redistributed to
+build against, and carry their own licenses.
+
 ## Status
 
 The extension is implemented and tested, with a calibrated parameter set for Mount Rainier
